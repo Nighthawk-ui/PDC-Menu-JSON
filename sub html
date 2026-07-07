@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="zxx">
+ <head>
+  <title>
+   Pakistani Cuisine
+  </title>
+  <!--meta tags -->
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="Renovate Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+         SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" name="keywords">
+   <script>
+    addEventListener("load", function () {
+         	setTimeout(hideURLbar, 0);
+         }, false);
+         
+         function hideURLbar() {
+         	window.scrollTo(0, 1);
+         }
+   </script>
+   <!--//meta tags ends here-->
+   <!--booststrap-->
+   <link href="css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css"/>
+   <!--//booststrap end-->
+   <!-- font-awesome icons -->
+   <link href="css/fontawesome-all.min.css" media="all" rel="stylesheet" type="text/css"/>
+   <!-- //font-awesome icons -->
+   <link href="css/popup-box.css" media="all" rel="stylesheet" type="text/css">
+    <!-- //pop-ups-->
+    <link href="css/meals.css" media="all" rel="stylesheet" type="text/css"/>
+    <!--//stylesheets-->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet"/>
+   </link>
+  </meta>
+ </head>
+ <body>
+  <div class="container-fluid" style="background-image:url('get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNFZGaHdSbVZyTlhGaGVrRTk=&amp;_T=CUISINE_BG');
+                  background-repeat: no-repeat;
+		            background-size: cover;
+		            padding-bottom: 150px;
+		            background-position: center;
+		            min-height: 100vh;">
+   <div class="row">
+    <div class="col-md-4">
+     <div>
+      <a href="https://pdc.lums.edu.pk/">
+       <img class="Pads img-fluid" src="images/logo-white.png"/>
+      </a>
+     </div>
+    </div>
+    <div class="col-md-4">
+     <h3 class="meal-title">
+      Pakistani Cuisine
+     </h3>
+    </div>
+    <div class="col-md-4">
+     <p align="center" class="Menu" style="color:#fff; text-shadow:4px 4px #000;">
+      <strong>
+       Lunch Timing
+      </strong>
+      <br/>
+      12:30 PM - 03:30 PM
+     </p>
+    </div>
+   </div>
+   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-6">
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVFd1RVUkdUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800; color: #fff; text-align: center; ">
+         Chicken Balti Gosht
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          F:300
+         </div>
+         <div>
+          H:200
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNVRsUmtUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Chana Pulao
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          F:170
+         </div>
+         <div>
+          H:120
+         </div>
+         <div>
+          Q:80
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVFeVQxVXhObEpZY0U5aGJYTjM=&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Daal Sabat Mash
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          F:140
+         </div>
+         <div>
+          H:100
+         </div>
+         <div>
+          Q:80
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNFRWVXhObEpZY0U5aGJYTjM=&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Shaljum Ki Bhujia
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          F:130
+         </div>
+         <div>
+          H:90
+         </div>
+         <div>
+          Q:70
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNFQxUmtUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Roti
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          20
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNFRYcFNUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Kulcha
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          30
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNFQxUmFUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Fresh Salad
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          30
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVFeVRVUkNUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Boiled Egg
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          40
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col">
+     <div class="d-flex flex-column justify-content-center mt-5">
+      <div class="d-flex justify-content-center">
+       <img src="get-picture.php?_ID=VkZaU2FrMHdNVlZTVkVGNVRucGFUbVZyVmpaVWJYQnlUVUU5UFE9PQ==&amp;_T=MEAL" style="border-radius: 50%; border: 2px solid #FFF; width: 200px; height:200px;"/>
+      </div>
+      <div class="d-flex justify-content-center mt-2">
+       <div class="d-flex flex-column justify-content-between" style="min-height:180px; width:100%; box-shadow: 2px 2px 4px #000000;
+                                                border: 2px solid; border-color: #FFF; background-color: #b24305; 
+                                                border-radius: 30px; padding: 15px; width: 200px;">
+        <div style="font-size: 20px; font-weight: 800;
+                                                      color: #fff; text-align: center; ">
+         Firni
+        </div>
+        <div class="d-flex justify-content-around" style="font-size: 20px; color: #f7ff15; font-weight: bold;">
+         <div>
+          100
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--//footer-->
+  <!--js working-->
+  <script src="js/jquery-2.2.3.min.js">
+  </script>
+  <!--//js working-->
+  <!--responsiveslides banner-->
+  <script src="js/responsiveslides.min.js">
+  </script>
+  <script>
+   // You can also use "$(window).load(function() {"
+         $(function () {
+         	// Slideshow 4
+         	$("#slider4").responsiveSlides({
+         		auto: true,
+         		pager:false,
+         		nav:true ,
+         		speed: 900,
+         		namespace: "callbacks",
+         		before: function () {
+         			$('.events').append("<li>before event fired.</li>");
+         		},
+         		after: function () {
+         			$('.events').append("<li>after event fired.</li>");
+         		}
+         	});
+         
+         });
+  </script>
+  <!--// responsiveslides banner-->
+  <!--About OnScroll-Number-Increase-JavaScript -->
+  <script src="js/jquery.waypoints.min.js">
+  </script>
+  <script src="js/jquery.countup.js">
+  </script>
+  <script>
+   $('.counter').countUp();
+  </script>
+  <!-- //OnScroll-Number-Increase-JavaScript -->
+  <!--pop-up-box video-->
+  <script src="js/jquery.magnific-popup.js">
+  </script>
+  <script>
+   $(document).ready(function() {
+         $('.popup-with-zoom-anim').magnificPopup({
+         type: 'inline',
+         fixedContentPos: false,
+         fixedBgPos: true,
+         overflowY: 'auto',
+         closeBtnInside: true,
+         preloader: false,
+         midClick: true,
+         removalDelay: 300,
+         mainClass: 'my-mfp-zoom-in'
+         });
+         
+         });
+  </script>
+  <!-- //pop-up-box video -->
+  <!-- start-smoth-scrolling -->
+  <script src="js/move-top.js">
+  </script>
+  <script src="js/easing.js">
+  </script>
+  <script>
+   jQuery(document).ready(function ($) {
+         	$(".scroll").click(function (event) {
+         		event.preventDefault();
+         		$('html,body').animate({
+         			scrollTop: $(this.hash).offset().top
+         		}, 900);
+         	});
+         });
+  </script>
+  <!--bootstrap working-->
+  <script src="js/bootstrap.min.js">
+  </script>
+  <!-- //bootstrap working-->
+ </body>
+</html>

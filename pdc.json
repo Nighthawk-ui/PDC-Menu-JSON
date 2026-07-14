@@ -54,21 +54,14 @@
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
-            "MANGO-MILKSHAKE",
-            "OREO MILKSHAKE",
-            "Dates Milkshake",
-            "BANANA-MILKSHAKE",
-            "FALSA JUICE",
             "Chocolate Fudge Brownie",
             "Chocolate Donut",
             "Chocolate Muffin",
             "Chocolate Marble Cake",
             "Dry Nut Cake",
-            "Pineapple Pastry",
             "Black Forest Pastry",
             "Double Chocolate Pastry",
             "COFFEE PASTRY",
-            "Chocolate Eclair",
             "Chicken Patties",
             "TEA WITH MILK",
             "DOODH PATTI",
@@ -77,21 +70,6 @@
             "ASSORTED SUNDAE CUP"
         ],
         "price": [
-            [
-                "260"
-            ],
-            [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
-                "140"
-            ],
             [
                 "150"
             ],
@@ -108,9 +86,6 @@
                 "90"
             ],
             [
-                "90"
-            ],
-            [
                 "100"
             ],
             [
@@ -118,9 +93,6 @@
             ],
             [
                 "120"
-            ],
-            [
-                "80"
             ],
             [
                 "80"

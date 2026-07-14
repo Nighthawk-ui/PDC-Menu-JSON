@@ -1,0 +1,24 @@
+name: Scheduled Script Run
+on:
+  schedule:
+    # Runs at minute 0 and 30 of every hour
+    - cron: '0,30 * * * *'
+  workflow_dispatch: # Allows you to run it manually to test
+
+jobs:
+  execute-job:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Get your code from GitHub onto the virtual machine
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Step 2: Set up the environment (e.g., Python or Java)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Step 3: Execute your script
+      - name: Run my script
+        run: python myscraper.py

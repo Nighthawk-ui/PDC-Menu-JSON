@@ -5,6 +5,9 @@ on:
     - cron: '0,30 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write  # MANDATORY: Allows the action to push changes back to your repo
+
 jobs:
   execute-job:
     runs-on: ubuntu-latest
@@ -24,3 +27,9 @@ jobs:
 
       - name: Run my script
         run: python myscraper.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Update menu JSON"
+          file_pattern: 'pdc.json' 

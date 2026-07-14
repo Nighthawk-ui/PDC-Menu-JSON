@@ -1,4 +1,56 @@
 {
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Kasoori",
+            "White Rice",
+            "Kali Tori",
+            "Red Lobia",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Cream Caramel"
+        ],
+        "price": [
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
@@ -159,6 +211,116 @@
             ]
         ]
     },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Chili with Onion",
+            "Buttered Rice",
+            "Chicken Kasoori",
+            "White Rice",
+            "Kali Tori",
+            "Red Lobia",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Cream Caramel"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Grilled Chicken",
+            "Steamed Daal",
+            "Boiled Rice",
+            "Desi Roti",
+            "Desi Anda",
+            "Kunda Dahi",
+            "Salad Bar",
+            "Banana"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "25"
+            ],
+            [
+                "55"
+            ],
+            [
+                "50"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "25"
+            ]
+        ]
+    },
     "Green Olive": {
         "has_timings": true,
         "start_time": 1100,
@@ -283,6 +445,68 @@
                 "40",
                 "300",
                 "60"
+            ]
+        ]
+    },
+    "BAR.B.Q (EDH LAWN)": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Tikka",
+            "Chicken Seekh Kebab( Per Pcs)",
+            "Chicken Kasoori",
+            "White Rice",
+            "Kali Tori",
+            "Red Lobia",
+            "Roti",
+            "Roghni Nan",
+            "Salad Bar",
+            "Boiled Egg",
+            "Cream Caramel"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "120"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "40"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
             ]
         ]
     },
@@ -480,6 +704,69 @@
             ],
             [
                 "180"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Chili with Onion",
+            "Buttered Rice",
+            "Chicken Kasoori",
+            "White Rice",
+            "Kali Tori",
+            "Red Lobia",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Cream Caramel"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
             ]
         ]
     }

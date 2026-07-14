@@ -54,6 +54,7 @@
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
+            "Chocolate-Muffin-Samal",
             "Chocolate Fudge Brownie",
             "Chocolate Donut",
             "Chocolate Muffin",
@@ -70,6 +71,9 @@
             "ASSORTED SUNDAE CUP"
         ],
         "price": [
+            [
+                "70"
+            ],
             [
                 "150"
             ],
@@ -258,7 +262,8 @@
             "Desi Anda",
             "Kunda Dahi",
             "Salad Bar",
-            "Banana"
+            "Banana",
+            "MANGO"
         ],
         "price": [
             [
@@ -290,6 +295,9 @@
             ],
             [
                 "25"
+            ],
+            [
+                "100"
             ]
         ]
     },
@@ -487,7 +495,7 @@
         "start_time": 1000,
         "end_time": 200,
         "menu": [
-            "Chicken-Haleem",
+            "WHITE CHANAY (BTK)",
             "AALOO-PALAK(BK)",
             "Achari Aaloo Paratha",
             "SADA PARATHA",
@@ -507,7 +515,7 @@
         ],
         "price": [
             [
-                "170"
+                "100"
             ],
             [
                 "90"

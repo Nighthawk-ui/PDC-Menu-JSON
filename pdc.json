@@ -6,6 +6,7 @@
         "menu": [
             "Patiala Chicken",
             "Yakhni Pullao",
+            "Kabab Masala",
             "Daal Makhni",
             "Aaloo Arvi",
             "Roti",
@@ -23,6 +24,9 @@
                 "170",
                 "120",
                 "80"
+            ],
+            [
+                "250"
             ],
             [
                 "140",
@@ -54,10 +58,6 @@
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
-            "MANGO-MILKSHAKE",
-            "BANANA-MILKSHAKE",
-            "Dates Milkshake",
-            "FALSA JUICE",
             "Assorted Muffin",
             "Assorted-Muffin-Small",
             "CHOCOLATE-DONUT",
@@ -74,18 +74,6 @@
             "Chicken Patties"
         ],
         "price": [
-            [
-                "260"
-            ],
-            [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
-                "140"
-            ],
             [
                 "100"
             ],
@@ -145,11 +133,7 @@
             "CHICKEN PIE",
             "BAKED CHICKEN SANDWICH",
             "Chicken Sandwich",
-            "Chicken Sandwich (Bran Bread)",
-            "Egg Cheese Sandwich",
-            "Egg Cheese Sandwich (Bran Bread)",
-            "Vegetable Cheese Sandwich",
-            "Vegetable Cheese Sandwich (Bran Bread)"
+            "Chicken Sandwich (Bran Bread)"
         ],
         "price": [
             [
@@ -184,18 +168,6 @@
             ],
             [
                 "140"
-            ],
-            [
-                "100"
-            ],
-            [
-                "110"
-            ],
-            [
-                "120"
-            ],
-            [
-                "120"
             ]
         ]
     },

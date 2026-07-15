@@ -1,1 +1,260 @@
-{}
+{
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Daal Moong Masoor",
+            "Paratha",
+            "Omelete",
+            "Fried Egg",
+            "French Toast",
+            "Toast",
+            "Bran Bread",
+            "Boiled Egg",
+            "Chocolate Cake",
+            "Croissant",
+            "Butter-Tips",
+            "Jam",
+            "Corn Flakes",
+            "Hot & Cold Milk"
+        ],
+        "price": [
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "50"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "50"
+            ],
+            [
+                "20"
+            ],
+            [
+                "20"
+            ],
+            [
+                "40"
+            ],
+            [
+                "60"
+            ],
+            [
+                "40"
+            ],
+            [
+                "55"
+            ],
+            [
+                "25"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ]
+        ]
+    },
+    "BAKERY & DRINKS": {
+        "has_timings": false,
+        "menu": [
+            "MANGO-MILKSHAKE",
+            "BANANA-MILKSHAKE",
+            "Dates Milkshake",
+            "FALSA JUICE",
+            "Assorted Muffin",
+            "CHOCOLATE-DONUT",
+            "Chocolate Fudge Brownie",
+            "Chocolate Marble Cake",
+            "Chocolate Muffin",
+            "Dry Nut Cake",
+            "Fresh-Mango-Pastry",
+            "Black Forest Pastry",
+            "Pineapple Pastry",
+            "Double Chocolate Pastry",
+            "COFFEE PASTRY",
+            "Chicken Patties"
+        ],
+        "price": [
+            [
+                "260"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "140"
+            ],
+            [
+                "100"
+            ],
+            [
+                "80"
+            ],
+            [
+                "150"
+            ],
+            [
+                "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "90"
+            ],
+            [
+                "100"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "180"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ]
+        ]
+    },
+    "FAST FOOD AND SNACKS": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 1000,
+        "menu": [
+            "Special Shami Burger",
+            "Grilled Chicken Sandwich with Fries",
+            "Chicken Shawarma",
+            "Chicken Shawarma With Cheese",
+            "Shawarma Platter",
+            "Chicken Pizza",
+            "French Fries",
+            "CHICKEN PIE",
+            "BAKED CHICKEN SANDWICH",
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Egg Cheese Sandwich",
+            "Egg Cheese Sandwich (Bran Bread)",
+            "Vegetable Cheese Sandwich",
+            "Vegetable Cheese Sandwich (Bran Bread)"
+        ],
+        "price": [
+            [
+                "170"
+            ],
+            [
+                "400"
+            ],
+            [
+                "200"
+            ],
+            [
+                "250"
+            ],
+            [
+                "500"
+            ],
+            [
+                "180"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ],
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "100"
+            ],
+            [
+                "110"
+            ],
+            [
+                "120"
+            ],
+            [
+                "120"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Daal Moong Masoor",
+            "DESI PARATHA",
+            "DESI PARATHA OIL FREE",
+            "Omelete",
+            "Fried Egg",
+            "Porridge",
+            "Desi Anda",
+            "Kunda Dahi",
+            "Banana",
+            "MANGO"
+        ],
+        "price": [
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "70"
+            ],
+            [
+                "70"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ],
+            [
+                "55"
+            ],
+            [
+                "50"
+            ],
+            [
+                "25"
+            ],
+            [
+                "100"
+            ]
+        ]
+    }
+}

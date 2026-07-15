@@ -260,7 +260,9 @@
             "Desi Anda",
             "Salad Bar",
             "Kunda Dahi",
-            "Banana"
+            "Banana",
+            "MANGO",
+            "Peach"
         ],
         "price": [
             [
@@ -293,6 +295,12 @@
             ],
             [
                 "25"
+            ],
+            [
+                "100"
+            ],
+            [
+                "50"
             ]
         ]
     },
@@ -489,77 +497,6 @@
             ],
             [
                 "25"
-            ]
-        ]
-    },
-    "The Off-Side Cafe": {
-        "has_timings": true,
-        "start_time": 1100,
-        "end_time": 1150,
-        "menu": [
-            "Chicken Sandwich (Bran Bread)",
-            "Chicken Sandwich",
-            "Chocolate Cake",
-            "TRIPLE CHOCOLATE BROWNIE",
-            "Grandma Cookies",
-            "Chicken Vegetable Roll",
-            "VEGETABLE SAMOSA MINI",
-            "Coffee",
-            "TEA WITH MILK",
-            "Cardamom Tea",
-            "DOODH PATTI (BAITHAK)",
-            "Nestle Juice",
-            "MANGO SLICE JUICE",
-            "GATORADE DRINK"
-        ],
-        "price": [
-            [
-                "140"
-            ],
-            [
-                "140"
-            ],
-            [
-                "60"
-            ],
-            [
-                "230"
-            ],
-            [
-                "50"
-            ],
-            [
-                "50"
-            ],
-            [
-                "25"
-            ],
-            [
-                "110"
-            ],
-            [
-                "60"
-            ],
-            [
-                "90"
-            ],
-            [
-                "80"
-            ],
-            [
-                "40"
-            ],
-            [
-                "50",
-                "500",
-                "40"
-            ],
-            [
-                "120",
-                "300",
-                "60",
-                "345",
-                "70"
             ]
         ]
     },

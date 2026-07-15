@@ -1,56 +1,4 @@
 {
-    "PAKISTANI CUISINE": {
-        "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
-        "menu": [
-            "Chicken Achari",
-            "Zeera Rice",
-            "White Lobia",
-            "Halwa Kaddoo",
-            "Roti",
-            "Kulcha",
-            "Fresh Salad",
-            "Boiled Egg",
-            "Blueberry Lime Cream"
-        ],
-        "price": [
-            [
-                "300",
-                "200"
-            ],
-            [
-                "170",
-                "120",
-                "80"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ],
-            [
-                "30"
-            ],
-            [
-                "40"
-            ],
-            [
-                "100"
-            ]
-        ]
-    },
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
@@ -59,9 +7,11 @@
             "Dates Milkshake",
             "FALSA JUICE",
             "Assorted Muffin",
+            "Assorted-Muffin-Small",
             "CHOCOLATE-DONUT",
             "Chocolate Fudge Brownie",
             "Chocolate Marble Cake",
+            "Chocolate-Muffin-Small",
             "Chocolate Muffin",
             "Dry Nut Cake",
             "Fresh-Mango-Pastry",
@@ -88,6 +38,9 @@
                 "100"
             ],
             [
+                "60"
+            ],
+            [
                 "80"
             ],
             [
@@ -95,6 +48,9 @@
             ],
             [
                 "100"
+            ],
+            [
+                "70"
             ],
             [
                 "120"
@@ -188,119 +144,6 @@
             ],
             [
                 "120"
-            ]
-        ]
-    },
-    "PAN ASIAN / MEDITERRANEAN CUISINE": {
-        "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
-        "menu": [
-            "Chicken Macaroni",
-            "Chicken Achari",
-            "Zeera Rice",
-            "White Lobia",
-            "Halwa Kaddoo",
-            "Roti",
-            "Kulcha",
-            "Fresh Salad",
-            "Boiled Egg",
-            "Blueberry Lime Cream"
-        ],
-        "price": [
-            [
-                "350",
-                "240"
-            ],
-            [
-                "300",
-                "200"
-            ],
-            [
-                "170",
-                "120",
-                "80"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ],
-            [
-                "30"
-            ],
-            [
-                "40"
-            ],
-            [
-                "100"
-            ]
-        ]
-    },
-    "HEALTHY / SALAD": {
-        "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
-        "menu": [
-            "Chicken Florentine",
-            "Steamed Daal",
-            "Boiled Rice",
-            "Desi Roti",
-            "Desi Anda",
-            "Salad Bar",
-            "Kunda Dahi",
-            "Banana",
-            "MANGO",
-            "Peach"
-        ],
-        "price": [
-            [
-                "450",
-                "300"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "130",
-                "80",
-                "70"
-            ],
-            [
-                "25"
-            ],
-            [
-                "55"
-            ],
-            [
-                "350",
-                "240",
-                "120"
-            ],
-            [
-                "50"
-            ],
-            [
-                "25"
-            ],
-            [
-                "100"
-            ],
-            [
-                "50"
             ]
         ]
     },
@@ -497,59 +340,6 @@
             ],
             [
                 "25"
-            ]
-        ]
-    },
-    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
-        "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
-        "menu": [
-            "Chicken Macaroni",
-            "Chicken Achari",
-            "Zeera Rice",
-            "White Lobia",
-            "Halwa Kaddoo",
-            "Roti",
-            "Kulcha",
-            "Fresh Salad",
-            "Boiled Egg"
-        ],
-        "price": [
-            [
-                "350",
-                "240"
-            ],
-            [
-                "300",
-                "200"
-            ],
-            [
-                "170",
-                "120",
-                "80"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ],
-            [
-                "30"
-            ],
-            [
-                "40"
             ]
         ]
     }

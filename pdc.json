@@ -8,7 +8,7 @@
             "Chicken Shahi Qorma",
             "Chicken Shami Kabab",
             "Qalandari Daal",
-            "Aaloo Palak",
+            "AALOO BHUJIA",
             "Roti",
             "Kulcha",
             "Fresh Salad",
@@ -203,13 +203,13 @@
         "start_time": 1230,
         "end_time": 330,
         "menu": [
-            "Chicken Manchurian",
             "White Rice",
+            "Chicken Manchurian",
             "Chicken Biryani",
             "Chicken Shami Kabab",
             "Chicken Shahi Qorma",
             "Qalandari Daal",
-            "Aaloo Palak",
+            "AALOO BHUJIA",
             "Roti",
             "Kulcha",
             "Boiled Egg",
@@ -218,13 +218,13 @@
         ],
         "price": [
             [
-                "450",
-                "300"
-            ],
-            [
                 "130",
                 "80",
                 "70"
+            ],
+            [
+                "450",
+                "300"
             ],
             [
                 "350",
@@ -453,9 +453,8 @@
         "end_time": 200,
         "menu": [
             "AALOO-PALAK(BK)",
-            "Chicken-Haleem",
             "Chicken Paratha(BTK)",
-            "WHITE CHANAY (BTK)",
+            "Chicken-Haleem",
             "SADA PARATHA",
             "ANDA SHAMI PARATHA",
             "Omelete",
@@ -477,13 +476,10 @@
                 "90"
             ],
             [
-                "170"
-            ],
-            [
                 "200"
             ],
             [
-                "100"
+                "170"
             ],
             [
                 "50"
@@ -525,11 +521,7 @@
                 "90"
             ],
             [
-                "110",
-                "300",
-                "60",
-                "500",
-                "40"
+                "110"
             ],
             [
                 "20"
@@ -663,7 +655,7 @@
             "Chicken Shami Kabab",
             "Chicken Shahi Qorma",
             "Qalandari Daal",
-            "Aaloo Palak",
+            "AALOO BHUJIA",
             "Roti",
             "Kulcha",
             "Fresh Salad",

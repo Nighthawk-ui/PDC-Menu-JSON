@@ -1,9 +1,56 @@
 {
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Handi Boneless",
+            "White Rice",
+            "Aaloo Anda Curry",
+            "Daal Moong Chilka",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "170",
+                "130",
+                "110"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
             "BANANA-MILKSHAKE",
-            "MANGO-MILKSHAKE",
             "OREO MILKSHAKE",
             "FALSA JUICE",
             "Chocolate Fudge Brownie",
@@ -24,9 +71,6 @@
         "price": [
             [
                 "250"
-            ],
-            [
-                "260"
             ],
             [
                 "250"
@@ -140,6 +184,106 @@
             ],
             [
                 "120"
+            ]
+        ]
+    },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Three Leaf Thai Chicken",
+            "White Rice",
+            "Chicken Handi Boneless",
+            "Aaloo Anda Curry",
+            "Daal Moong Chilka",
+            "Roti",
+            "Kulcha",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "130",
+                "110"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Grilled Chicken",
+            "Boiled Vegetables",
+            "Boiled Rice",
+            "Desi Roti",
+            "Desi Anda",
+            "Salad Bar",
+            "Kunda Dahi",
+            "MANGO",
+            "Peach"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "25"
+            ],
+            [
+                "55"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ],
+            [
+                "50"
             ]
         ]
     },
@@ -270,6 +414,66 @@
             ]
         ]
     },
+    "BAR.B.Q (EDH LAWN)": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Tikka Breast",
+            "Chicken Tikka Leg",
+            "Chicken Seekh Kebab( Per Pcs)",
+            "Chicken Handi Boneless",
+            "Aaloo Anda Curry",
+            "Daal Moong Chilka",
+            "White Rice",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Firni"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "300"
+            ],
+            [
+                "120"
+            ],
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "130",
+                "110"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "Baithak": {
         "has_timings": true,
         "start_time": 1000,
@@ -356,12 +560,12 @@
         "start_time": 1100,
         "end_time": 1150,
         "menu": [
-            "Chicken Sandwich",
-            "Chicken Sandwich (Bran Bread)",
             "Chicken Vegetable Roll",
             "Chicken Vegetable Samosa",
             "VEGETABLE SAMOSA MINI",
             "GRANDMA CHIP COOKIES",
+            "Chocolate Fudge Brownie",
+            "TRIPLE CHOCOLATE BROWNIE",
             "Chocolate Cake",
             "Coffee",
             "Cardamom Tea",
@@ -371,12 +575,6 @@
             "Nesfruta"
         ],
         "price": [
-            [
-                "140"
-            ],
-            [
-                "140"
-            ],
             [
                 "50"
             ],
@@ -388,6 +586,12 @@
             ],
             [
                 "70"
+            ],
+            [
+                "150"
+            ],
+            [
+                "230"
             ],
             [
                 "60"
@@ -461,6 +665,59 @@
             ],
             [
                 "90"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Handi Boneless",
+            "Three Leaf Thai Chicken",
+            "White Rice",
+            "Aaloo Anda Curry",
+            "Daal Moong Chilka",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "170",
+                "130",
+                "110"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
             ],
             [
                 "100"

@@ -132,7 +132,9 @@
             "Vegetable Cheese Sandwich (Bran Bread)",
             "Chicken Tikka Pizza",
             "BAKED CHICKEN SANDWICH",
-            "CHICKEN PIE"
+            "CHICKEN PIE",
+            "CHICKEN SAUSAGES ROLL",
+            "Chicken Patties"
         ],
         "price": [
             [
@@ -179,6 +181,12 @@
             ],
             [
                 "200"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
             ]
         ]
     },
@@ -244,7 +252,10 @@
             "Salad Bar",
             "Desi Roti",
             "Desi Anda",
-            "Kunda Dahi"
+            "Kunda Dahi",
+            "MANGO",
+            "Banana",
+            "Peach"
         ],
         "price": [
             [
@@ -270,6 +281,15 @@
             ],
             [
                 "55"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ],
+            [
+                "25"
             ],
             [
                 "50"
@@ -406,7 +426,6 @@
         "menu": [
             "CHICKEN VEGETABLES",
             "AALOO BHUJIA (BTK)",
-            "WHITE CHANAY (BTK)",
             "ANDA SHAMI PARATHA",
             "Achari Aaloo Paratha",
             "SADA PARATHA",
@@ -427,9 +446,6 @@
             ],
             [
                 "90"
-            ],
-            [
-                "100"
             ],
             [
                 "170"

@@ -1,64 +1,52 @@
 {
     "PAKISTANI CUISINE": {
         "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
+        "start_time": 1230,
+        "end_time": 330,
         "menu": [
-            "White Chanay",
-            "SADA PARATHA",
-            "Puri with Channay",
-            "Sweet Lassi",
-            "Omelete",
-            "Fried Egg",
+            "Chicken Nihari",
+            "White Rice",
+            "Karhi Phulki",
+            "Aaloo Baingan",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
             "Boiled Egg",
-            "Toast",
-            "Corn Flakes",
-            "Bran Bread",
-            "Butter-Tips",
-            "Jam",
-            "Hot & Cold Milk"
+            "Mango Mousse"
         ],
         "price": [
             [
-                "140",
-                "100",
-                "80"
+                "300",
+                "200"
             ],
             [
-                "50"
-            ],
-            [
-                "80"
-            ],
-            [
-                "120"
-            ],
-            [
+                "130",
+                "80",
                 "70"
             ],
             [
-                "50"
+                "140",
+                "100"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
             ],
             [
                 "40"
             ],
             [
-                "20"
-            ],
-            [
                 "100"
-            ],
-            [
-                "20"
-            ],
-            [
-                "55"
-            ],
-            [
-                "25"
-            ],
-            [
-                "90"
             ]
         ]
     },
@@ -74,6 +62,7 @@
             "Dry Nut Cake",
             "Chocolate Marble Cake",
             "Chocolate Donut",
+            "Chicken Patties",
             "BANANA-MILKSHAKE",
             "MANGO-MILKSHAKE",
             "OREO MILKSHAKE",
@@ -108,6 +97,9 @@
                 "80"
             ],
             [
+                "80"
+            ],
+            [
                 "250"
             ],
             [
@@ -121,46 +113,427 @@
             ]
         ]
     },
-    "HEALTHY / SALAD": {
+    "FAST FOOD AND SNACKS": {
         "has_timings": true,
-        "start_time": 700,
+        "start_time": 1000,
         "end_time": 1000,
         "menu": [
-            "White Chanay",
-            "DESI PARATHA",
-            "DESI PARATHA OIL FREE",
-            "Omelete",
-            "Fried Egg",
-            "Porridge",
+            "ZINGER BURGER WITH FRIES",
+            "Chicken Shawarma",
+            "Chicken Shawarma With Cheese",
+            "Shawarma Platter",
+            "Grilled Chicken Sandwich with Fries",
+            "French Fries",
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Egg Cheese Sandwich",
+            "Egg Cheese Sandwich (Bran Bread)",
+            "Vegetable Cheese Sandwich",
+            "Vegetable Cheese Sandwich (Bran Bread)",
+            "Chicken Tikka Pizza",
+            "BAKED CHICKEN SANDWICH",
+            "CHICKEN PIE"
+        ],
+        "price": [
+            [
+                "450"
+            ],
+            [
+                "200"
+            ],
+            [
+                "250"
+            ],
+            [
+                "500"
+            ],
+            [
+                "400"
+            ],
+            [
+                "200"
+            ],
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "100"
+            ],
+            [
+                "110"
+            ],
+            [
+                "120"
+            ],
+            [
+                "120"
+            ],
+            [
+                "180"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ]
+        ]
+    },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "menu": [
+            "Chicken Wings With BBQ SAUCE",
+            "Chicken Nihari",
+            "White Rice",
+            "Karhi Phulki",
+            "Aaloo Baingan",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Mango Mousse"
+        ],
+        "price": [
+            [
+                "380"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "140",
+                "100"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "menu": [
+            "Grilled Chicken Garlic Sauce",
+            "Boiled Vegetables",
+            "Boiled Rice",
+            "Salad Bar",
+            "Desi Roti",
             "Desi Anda",
             "Kunda Dahi"
         ],
         "price": [
             [
-                "140",
-                "100",
-                "80"
+                "300"
             ],
             [
+                "130",
+                "90",
                 "70"
             ],
             [
+                "130",
+                "80",
                 "70"
             ],
             [
-                "70"
+                "350",
+                "240",
+                "120"
             ],
             [
-                "50"
-            ],
-            [
-                "100"
+                "25"
             ],
             [
                 "55"
             ],
             [
                 "50"
+            ]
+        ]
+    },
+    "Green Olive": {
+        "has_timings": true,
+        "start_time": 1100,
+        "end_time": 1000,
+        "menu": [
+            "Hummus",
+            "Hummus Chicken",
+            "Arabian Green Salad",
+            "Fattoush Salad",
+            "Manakish Bi Leham",
+            "Falafel Shawarma Tortilla Bread",
+            "Chicken Shawarma with Tortilla Bread",
+            "Kabab Shawarma Tortilla Bread",
+            "Shish Taouk Shawarma Tortilla Bread",
+            "ZINGER SHAWARMA WITH FRIES",
+            "CHICKEN GYRO RICE",
+            "SHESHTOUK GYRO RICE",
+            "Kabab Gyro Rice",
+            "LEBANESE BEEF BURGER",
+            "LEBANESE CHICKEN BURGER",
+            "SPECIAL KABAB PLATTER",
+            "SPECIAL SHAWARMA PLATTER",
+            "SPECIAL SHESHTOUK PLATTER",
+            "BasBousa",
+            "Arabian Brownie",
+            "Chocolate Muffin",
+            "CHOCOLATE-DONUT",
+            "ICE CREAM (PER-CUBE)",
+            "Sulemani Kehwa",
+            "Coffee",
+            "Cardamom Tea",
+            "DOODH PATTI",
+            "Tang"
+        ],
+        "price": [
+            [
+                "200"
+            ],
+            [
+                "280"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "240",
+                "4",
+                "200"
+            ],
+            [
+                "220"
+            ],
+            [
+                "350"
+            ],
+            [
+                "300"
+            ],
+            [
+                "400"
+            ],
+            [
+                "450"
+            ],
+            [
+                "380"
+            ],
+            [
+                "450"
+            ],
+            [
+                "380"
+            ],
+            [
+                "400"
+            ],
+            [
+                "350"
+            ],
+            [
+                "550"
+            ],
+            [
+                "550"
+            ],
+            [
+                "600"
+            ],
+            [
+                "100"
+            ],
+            [
+                "160"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "110"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "120"
+            ]
+        ]
+    },
+    "Baithak": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 200,
+        "menu": [
+            "CHICKEN VEGETABLES",
+            "AALOO BHUJIA (BTK)",
+            "WHITE CHANAY (BTK)",
+            "ANDA SHAMI PARATHA",
+            "Achari Aaloo Paratha",
+            "SADA PARATHA",
+            "Omelete",
+            "Fried Egg",
+            "Boiled Egg",
+            "Chocolate Cake",
+            "Cake Rusk",
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "DOODH PATTI",
+            "Cardamom Tea",
+            "Coffee"
+        ],
+        "price": [
+            [
+                "160"
+            ],
+            [
+                "90"
+            ],
+            [
+                "100"
+            ],
+            [
+                "170"
+            ],
+            [
+                "90"
+            ],
+            [
+                "50"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "60"
+            ],
+            [
+                "40"
+            ],
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "110"
+            ]
+        ]
+    },
+    "The Off-Side Cafe": {
+        "has_timings": true,
+        "start_time": 1100,
+        "end_time": 1150,
+        "menu": [
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Chocolate Cake",
+            "GRANDMA CHIP COOKIES",
+            "TRIPLE CHOCOLATE BROWNIE",
+            "VEG SAMOSA Mini",
+            "Chicken Vegetable Roll",
+            "Cardamom Tea",
+            "DOODH PATTI",
+            "TEA WITH MILK",
+            "MANGO SLICE JUICE",
+            "Nesfruta"
+        ],
+        "price": [
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "60"
+            ],
+            [
+                "70"
+            ],
+            [
+                "230"
+            ],
+            [
+                "25"
+            ],
+            [
+                "50"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "60"
+            ],
+            [
+                "50"
+            ],
+            [
+                "60",
+                "500",
+                "40",
+                "500",
+                "50",
+                "345",
+                "70",
+                "300",
+                "60"
             ]
         ]
     }

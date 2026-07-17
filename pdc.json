@@ -1,1 +1,167 @@
-{}
+{
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "White Chanay",
+            "SADA PARATHA",
+            "Puri with Channay",
+            "Sweet Lassi",
+            "Omelete",
+            "Fried Egg",
+            "Boiled Egg",
+            "Toast",
+            "Corn Flakes",
+            "Bran Bread",
+            "Butter-Tips",
+            "Jam",
+            "Hot & Cold Milk"
+        ],
+        "price": [
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "50"
+            ],
+            [
+                "80"
+            ],
+            [
+                "120"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "20"
+            ],
+            [
+                "100"
+            ],
+            [
+                "20"
+            ],
+            [
+                "55"
+            ],
+            [
+                "25"
+            ],
+            [
+                "90"
+            ]
+        ]
+    },
+    "BAKERY & DRINKS": {
+        "has_timings": false,
+        "menu": [
+            "Assorted Muffin",
+            "Assorted-Muffin-Small",
+            "Chocolate Muffin",
+            "Black Forest Pastry",
+            "Pineapple Pastry",
+            "Double Chocolate Pastry",
+            "Dry Nut Cake",
+            "Chocolate Marble Cake",
+            "Chocolate Donut",
+            "BANANA-MILKSHAKE",
+            "MANGO-MILKSHAKE",
+            "OREO MILKSHAKE",
+            "FALSA JUICE"
+        ],
+        "price": [
+            [
+                "100"
+            ],
+            [
+                "60"
+            ],
+            [
+                "120"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "180"
+            ],
+            [
+                "90"
+            ],
+            [
+                "100"
+            ],
+            [
+                "80"
+            ],
+            [
+                "250"
+            ],
+            [
+                "260"
+            ],
+            [
+                "250"
+            ],
+            [
+                "140"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "White Chanay",
+            "DESI PARATHA",
+            "DESI PARATHA OIL FREE",
+            "Omelete",
+            "Fried Egg",
+            "Porridge",
+            "Desi Anda",
+            "Kunda Dahi"
+        ],
+        "price": [
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "70"
+            ],
+            [
+                "70"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ],
+            [
+                "55"
+            ],
+            [
+                "50"
+            ]
+        ]
+    }
+}

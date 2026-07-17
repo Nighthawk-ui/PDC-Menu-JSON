@@ -1,7 +1,59 @@
 {
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Pulao",
+            "Potato Kabab",
+            "Aaloo Band Gobhi",
+            "Daal Chana Mash",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Blueberry Mousse"
+        ],
+        "price": [
+            [
+                "350",
+                "250"
+            ],
+            [
+                "40"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
+            "ICE TEA MANGO",
+            "ICE TEA PEACH",
             "Assorted Muffin",
             "Assorted-Muffin-Small",
             "Chocolate Muffin",
@@ -18,6 +70,12 @@
             "FALSA JUICE"
         ],
         "price": [
+            [
+                "200"
+            ],
+            [
+                "200"
+            ],
             [
                 "100"
             ],
@@ -136,6 +194,122 @@
             ],
             [
                 "80"
+            ]
+        ]
+    },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Hot Garlic Sauce",
+            "Chicken Pulao",
+            "White Rice",
+            "Potato Kabab",
+            "Daal Chana Mash",
+            "Aaloo Band Gobhi",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Blueberry Mousse",
+            "Boiled Egg"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "40"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
+            ],
+            [
+                "40"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Grilled Chicken",
+            "Boiled Rice",
+            "Virgin Eggplant",
+            "Desi Roti",
+            "Desi Anda",
+            "Salad Bar",
+            "Peach",
+            "MANGO",
+            "Banana",
+            "Kunda Dahi"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "25"
+            ],
+            [
+                "55"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ],
+            [
+                "25"
+            ],
+            [
+                "50"
             ]
         ]
     },
@@ -259,6 +433,60 @@
             ],
             [
                 "120"
+            ]
+        ]
+    },
+    "BAR.B.Q (EDH LAWN)": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Tikka Leg",
+            "Chicken Tikka Breast",
+            "Chicken Seekh Kebab( Per Pcs)",
+            "Chicken Pulao",
+            "Daal Chana Mash",
+            "Aaloo Band Gobhi",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Blueberry Mousse"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "300"
+            ],
+            [
+                "120"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
             ]
         ]
     },
@@ -393,6 +621,67 @@
                 "70",
                 "300",
                 "60"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Hot Garlic Sauce",
+            "Chicken Pulao",
+            "White Rice",
+            "Potato Kabab",
+            "Daal Chana Mash",
+            "Aaloo Band Gobhi",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Blueberry Mousse"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "40"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
             ]
         ]
     }

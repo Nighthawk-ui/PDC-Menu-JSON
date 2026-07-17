@@ -53,8 +53,8 @@
         "has_timings": false,
         "menu": [
             "ICE TEA MANGO",
-            "ICE TEA PEACH",
             "Assorted Muffin",
+            "ICE TEA PEACH",
             "Assorted-Muffin-Small",
             "Chocolate Muffin",
             "Black Forest Pastry",
@@ -63,21 +63,18 @@
             "Dry Nut Cake",
             "Chocolate Marble Cake",
             "Chocolate Donut",
-            "Chicken Patties",
-            "BANANA-MILKSHAKE",
-            "MANGO-MILKSHAKE",
-            "OREO MILKSHAKE",
-            "FALSA JUICE"
+            "Coffee",
+            "Cardamom Tea"
         ],
         "price": [
             [
                 "200"
             ],
             [
-                "200"
+                "100"
             ],
             [
-                "100"
+                "200"
             ],
             [
                 "60"
@@ -104,19 +101,10 @@
                 "80"
             ],
             [
-                "80"
+                "110"
             ],
             [
-                "250"
-            ],
-            [
-                "260"
-            ],
-            [
-                "250"
-            ],
-            [
-                "140"
+                "90"
             ]
         ]
     },

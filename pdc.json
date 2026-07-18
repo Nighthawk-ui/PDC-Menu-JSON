@@ -1,13 +1,13 @@
 {
     "PAKISTANI CUISINE": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Madraasi",
-            "White Rice",
-            "Daal Sabat Masoor",
-            "Aaloo Palak",
+            "Chicken Balti Gosht",
+            "Brown Rice",
+            "Kalvangi Aaloo",
+            "Tomato Daal",
             "Roti",
             "Kulcha",
             "Fresh Salad",
@@ -20,19 +20,19 @@
                 "200"
             ],
             [
-                "130",
-                "80",
-                "70"
-            ],
-            [
-                "140",
-                "100",
+                "170",
+                "120",
                 "80"
             ],
             [
                 "130",
                 "90",
                 "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
             ],
             [
                 "20"
@@ -197,25 +197,22 @@
     },
     "PAN ASIAN / MEDITERRANEAN CUISINE": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Madraasi",
-            "Chicken Shashlik",
+            "Chicken With Oyster Sauce",
             "White Rice",
-            "Daal Sabat Masoor",
-            "Aaloo Palak",
+            "Chicken Balti Gosht",
+            "Brown Rice",
+            "Tomato Daal",
+            "Kalvangi Aaloo",
             "Roti",
             "Kulcha",
-            "Boiled Egg",
             "Fresh Salad",
+            "Boiled Egg",
             "Firni"
         ],
         "price": [
-            [
-                "300",
-                "200"
-            ],
             [
                 "450",
                 "300"
@@ -224,6 +221,15 @@
                 "130",
                 "80",
                 "70"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "170",
+                "120",
+                "80"
             ],
             [
                 "140",
@@ -242,10 +248,10 @@
                 "30"
             ],
             [
-                "40"
+                "30"
             ],
             [
-                "30"
+                "40"
             ],
             [
                 "100"
@@ -254,23 +260,27 @@
     },
     "HEALTHY / SALAD": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Ginger",
+            "Grilled Chicken",
+            "Vegetable Macaroni",
             "Boiled Rice",
-            "Boiled Vegetables",
+            "Salad Bar",
+            "Kunda Dahi",
             "Desi Roti",
             "Desi Anda",
-            "Kunda Dahi",
-            "Salad Bar",
             "Banana",
-            "MANGO"
+            "MANGO",
+            "Peach"
         ],
         "price": [
             [
-                "450",
                 "300"
+            ],
+            [
+                "150",
+                "100"
             ],
             [
                 "130",
@@ -278,9 +288,12 @@
                 "70"
             ],
             [
-                "130",
-                "90",
-                "70"
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "50"
             ],
             [
                 "25"
@@ -289,18 +302,13 @@
                 "55"
             ],
             [
-                "50"
-            ],
-            [
-                "350",
-                "240",
-                "120"
-            ],
-            [
                 "25"
             ],
             [
                 "100"
+            ],
+            [
+                "50"
             ]
         ]
     },
@@ -581,14 +589,15 @@
     },
     "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Madraasi",
-            "Chicken Shashlik",
+            "Chicken With Oyster Sauce",
             "White Rice",
-            "Daal Sabat Masoor",
-            "Aaloo Palak",
+            "Chicken Balti Gosht",
+            "Brown Rice",
+            "Kalvangi Aaloo",
+            "Tomato Daal",
             "Roti",
             "Kulcha",
             "Fresh Salad",
@@ -596,10 +605,6 @@
             "Firni"
         ],
         "price": [
-            [
-                "300",
-                "200"
-            ],
             [
                 "450",
                 "300"
@@ -610,14 +615,23 @@
                 "70"
             ],
             [
-                "140",
-                "100",
+                "300",
+                "200"
+            ],
+            [
+                "170",
+                "120",
                 "80"
             ],
             [
                 "130",
                 "90",
                 "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
             ],
             [
                 "20"

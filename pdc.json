@@ -266,12 +266,11 @@
             "Grilled Chicken",
             "Vegetable Macaroni",
             "Boiled Rice",
-            "Salad Bar",
             "Kunda Dahi",
+            "Salad Bar",
             "Desi Roti",
             "Desi Anda",
             "Banana",
-            "MANGO",
             "Peach"
         ],
         "price": [
@@ -288,12 +287,12 @@
                 "70"
             ],
             [
+                "50"
+            ],
+            [
                 "350",
                 "240",
                 "120"
-            ],
-            [
-                "50"
             ],
             [
                 "25"
@@ -303,9 +302,6 @@
             ],
             [
                 "25"
-            ],
-            [
-                "100"
             ],
             [
                 "50"

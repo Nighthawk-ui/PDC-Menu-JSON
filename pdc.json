@@ -1,1 +1,128 @@
-{}
+{
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "White Chanay",
+            "Puri with Channay",
+            "Halwa Suji",
+            "Sweet Lassi",
+            "Paratha",
+            "Omelete",
+            "Fried Egg",
+            "Boiled Egg",
+            "Toast",
+            "Bran Bread",
+            "Croissant",
+            "Butter-Tips",
+            "Jam",
+            "Chocolate Cake",
+            "Hot & Cold Milk",
+            "Achar"
+        ],
+        "price": [
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "80"
+            ],
+            [
+                "40"
+            ],
+            [
+                "120"
+            ],
+            [
+                "50"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "20"
+            ],
+            [
+                "20"
+            ],
+            [
+                "40"
+            ],
+            [
+                "55"
+            ],
+            [
+                "25"
+            ],
+            [
+                "60"
+            ],
+            [
+                "90"
+            ],
+            [
+                "20"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "White Chanay",
+            "DESI PARATHA",
+            "DESI PARATHA OIL FREE",
+            "Omelete",
+            "Fried Egg",
+            "Desi Anda",
+            "Porridge",
+            "Kunda Dahi",
+            "MANGO",
+            "Banana"
+        ],
+        "price": [
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "70"
+            ],
+            [
+                "70"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "55"
+            ],
+            [
+                "100"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ],
+            [
+                "25"
+            ]
+        ]
+    }
+}

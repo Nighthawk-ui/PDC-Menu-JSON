@@ -1,4 +1,56 @@
 {
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Palak",
+            "Zeera Rice",
+            "Arvi Baingan",
+            "Chana Masala",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Firni"
+        ],
+        "price": [
+            [
+                "300",
+                "200"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
@@ -135,6 +187,112 @@
             ]
         ]
     },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Black Pepper Sauce",
+            "Buttered Rice",
+            "Chicken Palak",
+            "Zeera Rice",
+            "Arvi Baingan",
+            "Chana-Masala",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Grilled Chicken",
+            "Mixed Beans",
+            "Boiled Rice",
+            "Salad Bar",
+            "Desi Roti",
+            "Desi Anda",
+            "Kunda Dahi"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "25"
+            ],
+            [
+                "55"
+            ],
+            [
+                "50"
+            ]
+        ]
+    },
     "Green Olive": {
         "has_timings": true,
         "start_time": 1100,
@@ -253,10 +411,8 @@
         "menu": [
             "AALOO BHUJIA (BTK)",
             "Chicken with Aaloo Curry(BTK)",
-            "WHITE CHANAY (BTK)",
             "Vegetable Paratha",
             "SADA PARATHA",
-            "ANDA SHAMI PARATHA",
             "Roti",
             "Omelete",
             "Fried Egg",
@@ -277,16 +433,10 @@
                 "160"
             ],
             [
-                "100"
-            ],
-            [
                 "90"
             ],
             [
                 "50"
-            ],
-            [
-                "170"
             ],
             [
                 "20"
@@ -432,6 +582,69 @@
             ],
             [
                 "180"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Black Pepper Sauce",
+            "Buttered Rice",
+            "Chicken Palak",
+            "Zeera Rice",
+            "Arvi Baingan",
+            "Chana-Masala",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
             ]
         ]
     }

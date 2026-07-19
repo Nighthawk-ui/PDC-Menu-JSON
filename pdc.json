@@ -256,6 +256,7 @@
         "end_time": 1000,
         "menu": [
             "Grilled Chicken",
+            "Virgin Eggplant",
             "Mixed Beans",
             "Boiled Rice",
             "Salad Bar",
@@ -266,6 +267,11 @@
         "price": [
             [
                 "300"
+            ],
+            [
+                "130",
+                "90",
+                "70"
             ],
             [
                 "140",

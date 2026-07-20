@@ -1,27 +1,23 @@
 {
     "PAKISTANI CUISINE": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Haleem",
-            "Chicken Steam Roast",
-            "Tarka Rice",
-            "Daal Chana",
-            "Mixed Vegetable",
+            "Chicken Kofta Curry",
+            "Vegetable Pulao",
+            "Red Lobia",
+            "Kali Tori",
             "Roti",
             "Kulcha",
-            "Fresh Salad",
             "Boiled Egg",
+            "Fresh Salad",
             "Custard"
         ],
         "price": [
             [
                 "250",
                 "170"
-            ],
-            [
-                "300"
             ],
             [
                 "170",
@@ -45,10 +41,10 @@
                 "30"
             ],
             [
-                "30"
+                "40"
             ],
             [
-                "40"
+                "30"
             ],
             [
                 "100"
@@ -193,16 +189,14 @@
     },
     "PAN ASIAN / MEDITERRANEAN CUISINE": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Hot Plate",
-            "Egg Fried Rice",
-            "Chicken Steam Roast",
-            "Chicken Haleem",
-            "Tarka Rice",
-            "Daal Chana",
-            "Mixed Vegetable",
+            "Chicken Stroganoff",
+            "White Rice",
+            "Chicken Kofta Curry",
+            "Red Lobia",
+            "Kali Tori",
             "Roti",
             "Kulcha",
             "Fresh Salad",
@@ -214,21 +208,13 @@
                 "300"
             ],
             [
-                "170",
-                "120",
-                "80"
-            ],
-            [
-                "300"
+                "130",
+                "80",
+                "70"
             ],
             [
                 "250",
                 "170"
-            ],
-            [
-                "170",
-                "120",
-                "80"
             ],
             [
                 "140",
@@ -256,33 +242,31 @@
     },
     "HEALTHY / SALAD": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Fish with Garlic Sauce",
-            "Ratatouille",
+            "Grilled Chicken",
             "Boiled Rice",
+            "Boiled Vegetables",
             "Desi Roti",
             "Desi Anda",
-            "Kunda Dahi",
             "Salad Bar",
+            "Kunda Dahi",
             "Banana",
-            "Peach",
             "MANGO"
         ],
         "price": [
             [
-                "450",
                 "300"
             ],
             [
                 "130",
-                "90",
+                "80",
                 "70"
             ],
             [
                 "130",
-                "80",
+                "90",
                 "70"
             ],
             [
@@ -292,18 +276,15 @@
                 "55"
             ],
             [
-                "50"
-            ],
-            [
                 "350",
                 "240",
                 "120"
             ],
             [
-                "25"
+                "50"
             ],
             [
-                "50"
+                "25"
             ],
             [
                 "100"
@@ -414,6 +395,62 @@
             ],
             [
                 "120"
+            ]
+        ]
+    },
+    "BAR.B.Q (EDH LAWN)": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Tikka Breast",
+            "Chicken Tikka Leg",
+            "Chicken Seekh Kebab( Per Pcs)",
+            "Chicken Kofta Curry",
+            "Vegetable Pulao",
+            "Kali Tori",
+            "Red Lobia",
+            "Roti",
+            "Roghni Nan",
+            "Fresh Salad"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "300"
+            ],
+            [
+                "120"
+            ],
+            [
+                "250",
+                "170"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "40"
+            ],
+            [
+                "30"
             ]
         ]
     },
@@ -620,16 +657,15 @@
     },
     "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
         "has_timings": true,
-        "start_time": 1230,
-        "end_time": 330,
+        "start_time": 700,
+        "end_time": 1000,
         "menu": [
-            "Chicken Hot Plate",
-            "Egg Fried Rice",
-            "Chicken Haleem",
-            "Chicken Steam Roast",
-            "Tarka Rice",
-            "Daal Chana",
-            "Mixed Vegetable",
+            "Chicken Kofta Curry",
+            "Chicken Stroganoff",
+            "White Rice",
+            "Vegetable Pulao",
+            "Kali Tori",
+            "Red Lobia",
             "Roti",
             "Kulcha",
             "Fresh Salad",
@@ -637,35 +673,32 @@
         ],
         "price": [
             [
-                "450",
-                "300"
-            ],
-            [
-                "170",
-                "120",
-                "80"
-            ],
-            [
                 "250",
                 "170"
             ],
             [
+                "450",
                 "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
             ],
             [
                 "170",
                 "120",
-                "80"
-            ],
-            [
-                "140",
-                "100",
                 "80"
             ],
             [
                 "130",
                 "90",
                 "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
             ],
             [
                 "20"

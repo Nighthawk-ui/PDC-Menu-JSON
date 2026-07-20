@@ -12,7 +12,7 @@
             "Kulcha",
             "Boiled Egg",
             "Fresh Salad",
-            "Custard"
+            "Mango Mousse"
         ],
         "price": [
             [
@@ -62,13 +62,8 @@
             "Dry Nut Cake",
             "Black Forest Pastry",
             "Pineapple Pastry",
-            "Chocolate Eclair",
-            "Double Chocolate Pastry",
             "Cream Puff",
-            "BANANA-MILKSHAKE",
-            "Dates Milkshake",
-            "MANGO-MILKSHAKE",
-            "FALSA JUICE",
+            "Chocolate Eclair",
             "ICE TEA PEACH",
             "ICE TEA MANGO",
             "ASSORTED SUNDAE CUP"
@@ -102,22 +97,7 @@
                 "80"
             ],
             [
-                "180"
-            ],
-            [
                 "80"
-            ],
-            [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
-                "260"
-            ],
-            [
-                "140"
             ],
             [
                 "200"
@@ -200,7 +180,7 @@
             "Roti",
             "Kulcha",
             "Fresh Salad",
-            "Custard"
+            "Mango Mousse"
         ],
         "price": [
             [
@@ -245,6 +225,7 @@
         "start_time": 700,
         "end_time": 1000,
         "menu": [
+            "Fish with Garlic Sauce",
             "Grilled Chicken",
             "Boiled Rice",
             "Boiled Vegetables",
@@ -256,6 +237,10 @@
             "MANGO"
         ],
         "price": [
+            [
+                "450",
+                "300"
+            ],
             [
                 "300"
             ],
@@ -669,7 +654,7 @@
             "Roti",
             "Kulcha",
             "Fresh Salad",
-            "Custard"
+            "Mango Mousse"
         ],
         "price": [
             [

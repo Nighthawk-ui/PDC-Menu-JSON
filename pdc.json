@@ -1,460 +1,71 @@
 {
-    "PAKISTANI CUISINE": {
-        "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
-        "menu": [
-            "Chicken Karahi",
-            "Brown Rice",
-            "Aaloo Maithee",
-            "Daal Mash",
-            "Roti",
-            "Kulcha",
-            "Fresh Salad",
-            "Boiled Egg",
-            "Custard"
-        ],
-        "price": [
-            [
-                "300",
-                "200"
-            ],
-            [
-                "170",
-                "120",
-                "80"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ],
-            [
-                "30"
-            ],
-            [
-                "40"
-            ],
-            [
-                "100"
-            ]
-        ]
-    },
     "BAKERY & DRINKS": {
         "has_timings": false,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNlZGaHdSazVGTlZWUldHYzk=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFRVUm5NbFJZY0VaT1JUVlZVVmhuUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFRVUm5NVlJZY0VaT1JUVlZVVmhuUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVRucGtUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRWUk9UbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVRucFdUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRucFdUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVRYcE9UbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFRVUkJNRlJZY0VaT1JUVlZVVmhuUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVRucFNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRWUlNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVQwUk9UbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFRVUk5kMVJZY0VaT1JUVlZVVmhuUFE9PQ==&_T=MEAL"
+        ],
         "menu": [
-            "Fresh Carrot Juice",
-            "BANANA-MILKSHAKE",
-            "APPLE-PIE",
-            "LOTUS-MILKSHAKE",
-            "Coffee",
-            "Cardamom Tea",
-            "DOODH PATTI",
-            "TEA WITH MILK",
-            "ASSORTED SUNDAE CUP",
+            "ICE TEA MANGO",
+            "ICE TEA PEACH",
             "Assorted Muffin",
-            "Chocolate Muffin",
-            "Chocolate Cake",
-            "Chocolate Donut",
-            "Chocolate Fudge Brownie",
-            "Chocolate Marble Cake",
-            "Dry Nut Cake",
             "Black Forest Pastry",
-            "COFFEE PASTRY",
             "Pineapple Pastry",
             "Double Chocolate Pastry",
-            "Chicken Patties"
-        ],
-        "price": [
-            [
-                "140"
-            ],
-            [
-                "250"
-            ],
-            [
-                "150"
-            ],
-            [
-                "490"
-            ],
-            [
-                "110"
-            ],
-            [
-                "90"
-            ],
-            [
-                "90"
-            ],
-            [
-                "60"
-            ],
-            [
-                "250"
-            ],
-            [
-                "100"
-            ],
-            [
-                "120"
-            ],
-            [
-                "60"
-            ],
-            [
-                "80"
-            ],
-            [
-                "150"
-            ],
-            [
-                "100"
-            ],
-            [
-                "90"
-            ],
-            [
-                "100"
-            ],
-            [
-                "120"
-            ],
-            [
-                "90"
-            ],
-            [
-                "180"
-            ],
-            [
-                "80"
-            ]
-        ]
-    },
-    "FAST FOOD AND SNACKS": {
-        "has_timings": true,
-        "start_time": 1100,
-        "end_time": 1000,
-        "menu": [
-            "Chicken Breast Burger With Fries",
-            "Chicken Shawarma",
-            "Chicken Shawarma With Cheese",
-            "Shawarma Platter",
-            "Chicken Pizza",
-            "CHICKEN PIE",
-            "BAKED CHICKEN SANDWICH"
-        ],
-        "price": [
-            [
-                "450"
-            ],
-            [
-                "200"
-            ],
-            [
-                "250"
-            ],
-            [
-                "500"
-            ],
-            [
-                "180"
-            ],
-            [
-                "200"
-            ],
-            [
-                "200"
-            ]
-        ]
-    },
-    "PAN ASIAN / MEDITERRANEAN CUISINE": {
-        "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
-        "menu": [
-            "Three Leaf Thai Chicken",
-            "White Rice",
-            "Chicken Karahi",
-            "Aaloo Maithee",
-            "Daal Mash",
-            "Roti",
-            "Kulcha",
-            "Fresh Salad",
-            "Boiled Egg",
-            "Custard"
-        ],
-        "price": [
-            [
-                "450",
-                "300"
-            ],
-            [
-                "130",
-                "80",
-                "70"
-            ],
-            [
-                "300",
-                "200"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ],
-            [
-                "30"
-            ],
-            [
-                "40"
-            ],
-            [
-                "100"
-            ]
-        ]
-    },
-    "HEALTHY / SALAD": {
-        "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
-        "menu": [
-            "Grilled Chicken",
-            "Boiled Rice",
-            "Grilled Vegetables",
-            "Desi Roti",
-            "Desi Anda",
-            "Salad Bar",
-            "Kunda Dahi",
-            "Mixed Fruit Glass",
-            "Banana",
-            "Orange"
-        ],
-        "price": [
-            [
-                "300"
-            ],
-            [
-                "130",
-                "80",
-                "70"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "25"
-            ],
-            [
-                "55"
-            ],
-            [
-                "350",
-                "240",
-                "120"
-            ],
-            [
-                "50"
-            ],
-            [
-                "70"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ]
-        ]
-    },
-    "Green Olive": {
-        "has_timings": true,
-        "start_time": 1100,
-        "end_time": 1000,
-        "menu": [
-            "Arabian Green Salad",
-            "Fattoush Salad",
-            "Hummus",
-            "Hummus Chicken",
-            "Masala-Fries",
-            "Manakish Bi Leham",
-            "SPECIAL KABAB PLATTER",
-            "SPECIAL SHAWARMA PLATTER",
-            "SPECIAL SHESHTOUK PLATTER",
-            "LEBANESE BEEF BURGER",
-            "LEBANESE CHICKEN BURGER",
-            "CHICKEN MANDI",
-            "CHICKEN GYRO RICE",
-            "Kabab Gyro Rice",
-            "SHESHTOUK GYRO RICE",
-            "ZINGER SHAWARMA WITH FRIES",
-            "Chicken Shawarma with Tortilla Bread",
-            "Kabab Shawarma Tortilla Bread",
-            "Falafel Shawarma Tortilla Bread",
-            "Shish Taouk Shawarma Tortilla Bread",
-            "Arabian Brownie",
-            "BasBousa",
+            "COFFEE PASTRY",
             "CHOCOLATE-DONUT",
+            "Chocolate Fudge Brownie",
+            "Chocolate Marble Cake",
             "Chocolate Muffin",
-            "COLD-COFFEE"
+            "ASSORTED SUNDAE CUP"
         ],
         "price": [
             [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
                 "200"
             ],
             [
-                "280"
-            ],
-            [
                 "200"
-            ],
-            [
-                "240",
-                "4",
-                "200"
-            ],
-            [
-                "550"
-            ],
-            [
-                "550"
-            ],
-            [
-                "600"
-            ],
-            [
-                "400"
-            ],
-            [
-                "350"
-            ],
-            [
-                "420"
-            ],
-            [
-                "380"
-            ],
-            [
-                "380"
-            ],
-            [
-                "450"
-            ],
-            [
-                "450"
-            ],
-            [
-                "350"
-            ],
-            [
-                "300"
-            ],
-            [
-                "220"
-            ],
-            [
-                "400"
-            ],
-            [
-                "160"
             ],
             [
                 "100"
             ],
             [
-                "80"
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "180"
             ],
             [
                 "120"
             ],
             [
-                "350"
-            ]
-        ]
-    },
-    "BAR.B.Q (EDH LAWN)": {
-        "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
-        "menu": [
-            "Chicken Tikka",
-            "Chicken Seekh Kebab( Per Pcs)",
-            "Chicken Nihari",
-            "Brown Rice",
-            "Aaloo Maithee",
-            "Daal Mash",
-            "Roti",
-            "Roghni Nan",
-            "Fresh Salad",
-            "Custard"
-        ],
-        "price": [
-            [
-                "300"
-            ],
-            [
-                "120"
-            ],
-            [
-                "300",
-                "200"
-            ],
-            [
-                "170",
-                "120",
                 "80"
             ],
             [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "20"
-            ],
-            [
-                "40"
-            ],
-            [
-                "30"
+                "150"
             ],
             [
                 "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "250"
             ]
         ]
     },
@@ -462,29 +73,66 @@
         "has_timings": true,
         "start_time": 1000,
         "end_time": 200,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNlRUQXhObEpVVWs5V1JVWTA=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMFRucENUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMFQwUm9UbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFQxUlNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMFRtcG9UbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMFRtcGtUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFQxUmtUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMFRYcGFUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNVQxUktUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNVRYcENUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVRVUkNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVd1RrUlNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVQxUkNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVQwUkNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelQxUmFUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMFRtcFdUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRXcFNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRXcFdUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL"
+        ],
         "menu": [
+            "CHICKEN VEGETABLES",
+            "AALOO BHUJIA (BTK)",
             "Achari Aaloo Paratha",
+            "ANDA SHAMI PARATHA",
             "SADA PARATHA",
+            "Roti",
+            "kulcha (BTK)",
             "Omelete",
             "Fried Egg",
-            "WHITE CHANAY (BTK)",
-            "Chicken-Haleem",
-            "AALOO-PALAK(BK)",
-            "ANDA SHAMI PARATHA",
+            "Boiled Egg",
+            "Achar",
             "Chicken Sandwich",
-            "Chicken Sandwich (Bran Bread)",
             "Chocolate Cake",
             "Cake Rusk",
-            "Boiled Egg",
-            "Roti",
-            "kulcha (BTK)"
+            "DOODH PATTI (BAITHAK)",
+            "Cardamom Tea",
+            "Coffee"
         ],
         "price": [
+            [
+                "160"
+            ],
             [
                 "90"
             ],
             [
+                "90"
+            ],
+            [
+                "170"
+            ],
+            [
                 "50"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
             ],
             [
                 "70"
@@ -493,19 +141,10 @@
                 "50"
             ],
             [
-                "100"
+                "40"
             ],
             [
-                "170"
-            ],
-            [
-                "90"
-            ],
-            [
-                "170"
-            ],
-            [
-                "140"
+                "20"
             ],
             [
                 "140"
@@ -517,13 +156,13 @@
                 "40"
             ],
             [
-                "40"
+                "80"
             ],
             [
-                "20"
+                "90"
             ],
             [
-                "30"
+                "110"
             ]
         ]
     },
@@ -531,24 +170,63 @@
         "has_timings": true,
         "start_time": 1100,
         "end_time": 1150,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNlRtc3hObEpVVWs5V1JVWTA=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVQxUkNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVeVQxUkdUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRXcEtUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVRucE9UbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVQwUkNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVRucGFUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVRucGtUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVQwUktUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRXcFdUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVQwUlNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVRsUldUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVWNFRVUkZNVlJZY0VaT1JUVlZVVmhuUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVelRXcFNUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZYVkVVMVQwUldUbVZyVlRCVWJGSkNaVUU5UFE9PQ==&_T=MEAL"
+        ],
         "menu": [
-            "Chocolate Cake",
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Grandma Cookies",
             "TRIPLE CHOCOLATE BROWNIE",
-            "Coffee",
-            "Cardamom Tea",
-            "DOODH PATTI",
-            "TEA WITH MILK",
+            "Chocolate Cake",
             "Chicken Vegetable Roll",
-            "VEG SAMOSA Mini",
-            "Nesfruta",
-            "GATORADE DRINK"
+            "Chicken Vegetable Samosa",
+            "VEGETABLE SAMOSA MINI",
+            "Coffee",
+            "DOODH PATTI",
+            "COLA NEXT WATER 500ML",
+            "GATORADE DRINK",
+            "Cardamom Tea",
+            "NEXT COLA 300ML"
         ],
         "price": [
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "50"
+            ],
+            [
+                "230"
+            ],
             [
                 "60"
             ],
             [
-                "230"
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "25"
             ],
             [
                 "110"
@@ -557,152 +235,16 @@
                 "90"
             ],
             [
-                "90"
-            ],
-            [
-                "60"
-            ],
-            [
-                "50"
-            ],
-            [
-                "25"
-            ],
-            [
-                "60",
-                "345",
-                "70",
-                "500",
-                "40",
-                "300",
-                "60"
-            ],
-            [
-                "120"
-            ]
-        ]
-    },
-    "THE CUPCAKE LOUNGE": {
-        "has_timings": true,
-        "start_time": 1000,
-        "end_time": 959,
-        "menu": [
-            "ASSORTED SUNDAE CUP",
-            "Chocolate Muffin",
-            "CHOCOLATE FUDGE CAKE",
-            "CHOCOLATE-DONUT",
-            "Chocolate Fudge Brownie",
-            "Double Chocolate Pastry",
-            "COFFEE PASTRY",
-            "Pineapple Pastry",
-            "Black Forest Pastry",
-            "Chocolate Marble Cake",
-            "Dry Nut Cake",
-            "Chocolate Cake",
-            "Chicken Patties"
-        ],
-        "price": [
-            [
-                "250"
-            ],
-            [
-                "120"
-            ],
-            [
-                "150"
-            ],
-            [
-                "80"
-            ],
-            [
-                "150"
-            ],
-            [
-                "180"
-            ],
-            [
-                "120"
-            ],
-            [
-                "90"
-            ],
-            [
-                "100"
-            ],
-            [
-                "100"
-            ],
-            [
-                "90"
-            ],
-            [
-                "60"
-            ],
-            [
-                "80"
-            ]
-        ]
-    },
-    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
-        "has_timings": true,
-        "start_time": 1000,
-        "end_time": 959,
-        "menu": [
-            "Chicken Nihari",
-            "Brown Rice",
-            "Three Leaf Thai Chicken",
-            "White Rice",
-            "Daal Mash",
-            "Aaloo Maithee",
-            "Roti",
-            "Kulcha",
-            "Fresh Salad",
-            "Boiled Egg",
-            "Custard"
-        ],
-        "price": [
-            [
-                "300",
-                "200"
-            ],
-            [
-                "170",
-                "120",
-                "80"
-            ],
-            [
-                "450",
-                "300"
-            ],
-            [
-                "130",
-                "80",
-                "70"
-            ],
-            [
-                "140",
-                "100",
-                "80"
-            ],
-            [
-                "130",
-                "90",
-                "70"
-            ],
-            [
-                "20"
-            ],
-            [
-                "30"
-            ],
-            [
-                "30"
-            ],
-            [
                 "40"
             ],
             [
-                "100"
+                "120"
+            ],
+            [
+                "90"
+            ],
+            [
+                "60"
             ]
         ]
     }

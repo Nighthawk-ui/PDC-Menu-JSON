@@ -1,4 +1,56 @@
 {
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Qeema Aaloo",
+            "White Rice",
+            "Kadoo Ki Bhujia",
+            "Qalandari Daal",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Kheer"
+        ],
+        "price": [
+            [
+                "330",
+                "230"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "BAKERY & DRINKS": {
         "has_timings": false,
         "menu": [
@@ -163,6 +215,114 @@
             ]
         ]
     },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Grilled Chicken with Bar.B.Q. Sauce",
+            "Garlic Fried Rice",
+            "Chicken Qeema Aaloo",
+            "Kadoo Ki Bhujia",
+            "Qalandari Daal",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Kheer"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "330",
+                "230"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken with Vegetables",
+            "Boiled Rice",
+            "Ratatouille",
+            "Desi Roti",
+            "Desi Anda",
+            "Salad Bar",
+            "Kunda Dahi",
+            "Banana",
+            "MANGO"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "25"
+            ],
+            [
+                "55"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "50"
+            ],
+            [
+                "25"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
     "Green Olive": {
         "has_timings": true,
         "start_time": 1100,
@@ -295,6 +455,66 @@
                 "60",
                 "500",
                 "40"
+            ]
+        ]
+    },
+    "BAR.B.Q (EDH LAWN)": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Tikka Breast",
+            "Chicken Tikka Leg",
+            "Chicken Seekh Kebab( Per Pcs)",
+            "Chicken Qeema Aaloo",
+            "White Rice",
+            "Kadoo Ki Bhujia",
+            "Qalandari Daal",
+            "Roti",
+            "Roghni Nan",
+            "Fresh Salad",
+            "Kheer"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "300"
+            ],
+            [
+                "120"
+            ],
+            [
+                "330",
+                "230"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "40"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
             ]
         ]
     },
@@ -482,6 +702,68 @@
             ],
             [
                 "80"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 700,
+        "end_time": 1000,
+        "menu": [
+            "Chicken Qeema Aaloo",
+            "White Rice",
+            "Grilled Chicken with Bar.B.Q. Sauce",
+            "Garlic Fried Rice",
+            "Kadoo Ki Bhujia",
+            "Qalandari Daal",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Kheer"
+        ],
+        "price": [
+            [
+                "330",
+                "230"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
             ]
         ]
     },

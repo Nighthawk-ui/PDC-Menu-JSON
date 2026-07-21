@@ -1,68 +1,448 @@
 {
     "PAKISTANI CUISINE": {
         "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
+        "start_time": 1230,
+        "end_time": 330,
         "menu": [
-            "White Chanay",
-            "Paratha",
-            "Aaloo Paratha",
-            "Omelete",
-            "Fried Egg",
+            "Chicken Pulao",
+            "Beef Chapli Kabab",
+            "Lahori Chanay",
+            "Karaila Piaz",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
             "Boiled Egg",
-            "French Toast",
-            "Toast",
-            "Bran Bread",
-            "Croissant",
-            "Chocolate Cake",
-            "Butter-Tips",
-            "Jam",
-            "Hot & Cold Milk",
-            "Corn Flakes",
-            "Banana",
-            "Achar"
+            "Kheer"
         ],
         "price": [
+            [
+                "350",
+                "250"
+            ],
+            [
+                "200"
+            ],
             [
                 "140",
                 "100",
                 "80"
             ],
             [
-                "50"
-            ],
-            [
-                "60"
-            ],
-            [
+                "130",
+                "90",
                 "70"
             ],
             [
-                "50"
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
             ],
             [
                 "40"
             ],
             [
-                "50"
+                "100"
+            ]
+        ]
+    },
+    "BAKERY & DRINKS": {
+        "has_timings": false,
+        "menu": [
+            "ICE TEA MANGO",
+            "ICE TEA PEACH",
+            "MANGO-MILKSHAKE",
+            "BANANA-MILKSHAKE",
+            "Dates Milkshake",
+            "OREO MILKSHAKE",
+            "FALSA JUICE",
+            "Assorted Muffin",
+            "Black Forest Pastry",
+            "Pineapple Pastry",
+            "Double Chocolate Pastry",
+            "COFFEE PASTRY",
+            "CHOCOLATE-DONUT",
+            "Chocolate Fudge Brownie",
+            "Chocolate Marble Cake",
+            "Chocolate Muffin",
+            "ASSORTED SUNDAE CUP",
+            "Assorted-Muffin-Small",
+            "Peach",
+            "Banana"
+        ],
+        "price": [
+            [
+                "200"
             ],
             [
-                "20"
+                "200"
             ],
             [
-                "20"
+                "260"
             ],
             [
-                "40"
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "140"
+            ],
+            [
+                "100"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "180"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "150"
+            ],
+            [
+                "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "250"
             ],
             [
                 "60"
+            ],
+            [
+                "50"
+            ],
+            [
+                "25"
+            ]
+        ]
+    },
+    "FAST FOOD AND SNACKS": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 1000,
+        "menu": [
+            "Special Shami Burger",
+            "Grilled Chicken Sandwich with Fries",
+            "Chicken Shawarma",
+            "Chicken Shawarma With Cheese",
+            "Shawarma Platter",
+            "Chicken Tikka Pizza",
+            "French Fries",
+            "CHICKEN PIE",
+            "BAKED CHICKEN SANDWICH",
+            "Chicken Patties",
+            "Vegetable Patties",
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Egg Cheese Sandwich",
+            "Egg Cheese Sandwich (Bran Bread)",
+            "Vegetable Cheese Sandwich",
+            "Vegetable Cheese Sandwich (Bran Bread)"
+        ],
+        "price": [
+            [
+                "170"
+            ],
+            [
+                "400"
+            ],
+            [
+                "200"
+            ],
+            [
+                "250"
+            ],
+            [
+                "500"
+            ],
+            [
+                "180"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ],
+            [
+                "80"
+            ],
+            [
+                "60"
+            ],
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "100"
+            ],
+            [
+                "110"
+            ],
+            [
+                "120"
+            ],
+            [
+                "120"
+            ]
+        ]
+    },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "menu": [
+            "Chicken Almond",
+            "White Rice",
+            "Chicken Pulao",
+            "Beef Chapli Kabab",
+            "Lahori Chanay",
+            "Karaila Piaz",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Kheer"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "200"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "menu": [
+            "Chicken Sajji",
+            "Virgin Eggplant",
+            "Boiled Rice",
+            "Salad Bar",
+            "Desi Roti",
+            "Desi Anda",
+            "Kunda Dahi",
+            "Banana",
+            "Peach",
+            "MANGO"
+        ],
+        "price": [
+            [
+                "300"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "25"
             ],
             [
                 "55"
             ],
             [
+                "50"
+            ],
+            [
                 "25"
+            ],
+            [
+                "50"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "Green Olive": {
+        "has_timings": true,
+        "start_time": 1100,
+        "end_time": 1000,
+        "menu": [
+            "Hummus",
+            "Hummus Chicken",
+            "Fattoush Salad",
+            "Arabian Green Salad",
+            "Manakish Bi Leham",
+            "ZINGER SHAWARMA WITH FRIES",
+            "Falafel Shawarma Tortilla Bread",
+            "Chicken Shawarma with Tortilla Bread",
+            "Kabab Shawarma Tortilla Bread",
+            "Shish Taouk Shawarma Tortilla Bread",
+            "LEBANESE BEEF BURGER",
+            "LEBANESE CHICKEN BURGER",
+            "CHICKEN GYRO RICE",
+            "Kabab Gyro Rice",
+            "Shishtaouk Gyro Rice",
+            "Masala-Fries",
+            "CHICKEN MANDI",
+            "SPECIAL KABAB PLATTER",
+            "SPECIAL SHAWARMA PLATTER",
+            "SPECIAL SHESHTOUK PLATTER"
+        ],
+        "price": [
+            [
+                "200"
+            ],
+            [
+                "280"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "240",
+                "4",
+                "200"
+            ],
+            [
+                "450"
+            ],
+            [
+                "220"
+            ],
+            [
+                "350"
+            ],
+            [
+                "300"
+            ],
+            [
+                "400"
+            ],
+            [
+                "400"
+            ],
+            [
+                "350"
+            ],
+            [
+                "380"
+            ],
+            [
+                "380"
+            ],
+            [
+                "450"
+            ],
+            [
+                "200"
+            ],
+            [
+                "420"
+            ],
+            [
+                "550"
+            ],
+            [
+                "550"
+            ],
+            [
+                "600"
+            ]
+        ]
+    },
+    "Baithak": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 200,
+        "menu": [
+            "CHICKEN VEGETABLES",
+            "AALOO BHUJIA (BTK)",
+            "WHITE CHANAY (BTK)",
+            "Achari Aaloo Paratha",
+            "ANDA SHAMI PARATHA",
+            "SADA PARATHA",
+            "Roti",
+            "kulcha (BTK)",
+            "Omelete",
+            "Fried Egg",
+            "Boiled Egg",
+            "Achar",
+            "Chicken Sandwich",
+            "Chocolate Cake",
+            "Cake Rusk",
+            "DOODH PATTI (BAITHAK)",
+            "Coffee",
+            "Cardamom Tea"
+        ],
+        "price": [
+            [
+                "160"
             ],
             [
                 "90"
@@ -71,61 +451,233 @@
                 "100"
             ],
             [
-                "25"
+                "90"
+            ],
+            [
+                "170"
+            ],
+            [
+                "50"
             ],
             [
                 "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "20"
+            ],
+            [
+                "140"
+            ],
+            [
+                "60"
+            ],
+            [
+                "40"
+            ],
+            [
+                "80"
+            ],
+            [
+                "110"
+            ],
+            [
+                "90"
             ]
         ]
     },
-    "HEALTHY / SALAD": {
+    "The Off-Side Cafe": {
         "has_timings": true,
-        "start_time": 700,
-        "end_time": 1000,
+        "start_time": 1100,
+        "end_time": 1150,
         "menu": [
-            "White Chanay",
-            "DESI PARATHA",
-            "DESI PARATHA OIL FREE",
-            "Omelete",
-            "Fried Egg",
-            "Desi Anda",
-            "Porridge",
-            "Kunda Dahi",
-            "Banana",
-            "Peach"
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Grandma Cookies",
+            "TRIPLE CHOCOLATE BROWNIE",
+            "Chocolate Cake",
+            "Chicken Vegetable Roll",
+            "Chicken Vegetable Samosa",
+            "VEGETABLE SAMOSA MINI",
+            "Coffee",
+            "DOODH PATTI",
+            "Cardamom Tea"
         ],
         "price": [
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "50"
+            ],
+            [
+                "230"
+            ],
+            [
+                "60"
+            ],
+            [
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "25"
+            ],
+            [
+                "110"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ]
+        ]
+    },
+    "THE CUPCAKE LOUNGE": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 1000,
+        "menu": [
+            "ASSORTED SUNDAE CUP",
+            "Chocolate Muffin",
+            "Chocolate Fudge Brownie",
+            "Chocolate Donut",
+            "Chocolate Marble Cake",
+            "Dry Nut Cake",
+            "Pineapple Pastry",
+            "Black Forest Pastry",
+            "Double Chocolate Pastry",
+            "Chicken Patties"
+        ],
+        "price": [
+            [
+                "250"
+            ],
+            [
+                "120"
+            ],
+            [
+                "150"
+            ],
+            [
+                "80"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "100"
+            ],
+            [
+                "180"
+            ],
+            [
+                "80"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "menu": [
+            "Chicken Almond",
+            "White Rice",
+            "Chicken Pulao",
+            "Beef Chapli Kabab",
+            "Lahori Chanay",
+            "Karaila Piaz",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Kheer"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "200"
+            ],
             [
                 "140",
                 "100",
                 "80"
             ],
             [
+                "130",
+                "90",
                 "70"
             ],
             [
-                "70"
+                "20"
             ],
             [
-                "70"
+                "30"
             ],
             [
-                "50"
-            ],
-            [
-                "55"
+                "30"
             ],
             [
                 "100"
+            ]
+        ]
+    },
+    "PDC CAKES": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 1000,
+        "menu": [
+            "RED VELVET CAKE TWO POUND",
+            "LOTUS CHEESE CAKE TWO POUND",
+            "CHOCOLATE FUDGE CAKE TWO POUND",
+            "BLACK FOREST CAKE TWO POUND"
+        ],
+        "price": [
+            [
+                "2000"
             ],
             [
-                "50"
+                "2500"
             ],
             [
-                "25"
+                "1800"
             ],
             [
-                "50"
+                "1200"
             ]
         ]
     }

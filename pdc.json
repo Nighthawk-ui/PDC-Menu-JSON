@@ -224,8 +224,7 @@
             "Desi Anda",
             "Salad Bar",
             "Kunda Dahi",
-            "Banana",
-            "MANGO"
+            "Banana"
         ],
         "price": [
             [
@@ -258,9 +257,6 @@
             ],
             [
                 "25"
-            ],
-            [
-                "100"
             ]
         ]
     },

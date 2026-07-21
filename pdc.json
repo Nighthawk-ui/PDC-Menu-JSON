@@ -219,7 +219,7 @@
         "end_time": 330,
         "menu": [
             "Chicken Almond",
-            "White Rice",
+            "Masala Fried Rice",
             "Chicken Pulao",
             "Beef Chapli Kabab",
             "Lahori Chanay",
@@ -235,9 +235,9 @@
                 "300"
             ],
             [
-                "130",
-                "80",
-                "70"
+                "170",
+                "120",
+                "80"
             ],
             [
                 "350",
@@ -349,7 +349,17 @@
             "CHICKEN MANDI",
             "SPECIAL KABAB PLATTER",
             "SPECIAL SHAWARMA PLATTER",
-            "SPECIAL SHESHTOUK PLATTER"
+            "SPECIAL SHESHTOUK PLATTER",
+            "Chocolate Muffin",
+            "Chocolate Donut",
+            "Arabian Brownie",
+            "BasBousa",
+            "Ice Cream (Per-Scoop)",
+            "Sharbat E Sandal",
+            "ORANGE MASHROOB",
+            "Cardamom Tea",
+            "DOODH PATTI",
+            "Coffee"
         ],
         "price": [
             [
@@ -413,6 +423,40 @@
             ],
             [
                 "600"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "160"
+            ],
+            [
+                "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "110",
+                "300",
+                "60",
+                "500",
+                "40"
             ]
         ]
     },
@@ -423,7 +467,6 @@
         "menu": [
             "CHICKEN VEGETABLES",
             "AALOO BHUJIA (BTK)",
-            "WHITE CHANAY (BTK)",
             "Achari Aaloo Paratha",
             "ANDA SHAMI PARATHA",
             "SADA PARATHA",
@@ -437,8 +480,8 @@
             "Chocolate Cake",
             "Cake Rusk",
             "DOODH PATTI (BAITHAK)",
-            "Coffee",
-            "Cardamom Tea"
+            "Cardamom Tea",
+            "Coffee"
         ],
         "price": [
             [
@@ -446,9 +489,6 @@
             ],
             [
                 "90"
-            ],
-            [
-                "100"
             ],
             [
                 "90"
@@ -490,10 +530,10 @@
                 "80"
             ],
             [
-                "110"
+                "90"
             ],
             [
-                "90"
+                "110"
             ]
         ]
     },
@@ -512,6 +552,7 @@
             "VEGETABLE SAMOSA MINI",
             "Coffee",
             "DOODH PATTI",
+            "GATORADE DRINK",
             "Cardamom Tea"
         ],
         "price": [
@@ -543,10 +584,17 @@
                 "110"
             ],
             [
-                "90"
+                "90",
+                "500",
+                "40"
             ],
             [
-                "90"
+                "120"
+            ],
+            [
+                "90",
+                "300",
+                "60"
             ]
         ]
     },
@@ -605,7 +653,7 @@
         "end_time": 330,
         "menu": [
             "Chicken Almond",
-            "White Rice",
+            "Masala Fried Rice",
             "Chicken Pulao",
             "Beef Chapli Kabab",
             "Lahori Chanay",
@@ -621,9 +669,9 @@
                 "300"
             ],
             [
-                "130",
-                "80",
-                "70"
+                "170",
+                "120",
+                "80"
             ],
             [
                 "350",

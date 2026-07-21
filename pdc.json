@@ -5,6 +5,7 @@
         "end_time": 1000,
         "menu": [
             "Chicken Qeema Aaloo",
+            "Chicken Biryani",
             "White Rice",
             "Kadoo Ki Bhujia",
             "Qalandari Daal",
@@ -18,6 +19,10 @@
             [
                 "330",
                 "230"
+            ],
+            [
+                "350",
+                "250"
             ],
             [
                 "130",
@@ -56,11 +61,6 @@
         "menu": [
             "ICE TEA MANGO",
             "ICE TEA PEACH",
-            "MANGO-MILKSHAKE",
-            "BANANA-MILKSHAKE",
-            "Dates Milkshake",
-            "OREO MILKSHAKE",
-            "FALSA JUICE",
             "Assorted Muffin",
             "Black Forest Pastry",
             "Pineapple Pastry",
@@ -70,10 +70,7 @@
             "Chocolate Fudge Brownie",
             "Chocolate Marble Cake",
             "Chocolate Muffin",
-            "ASSORTED SUNDAE CUP",
-            "Assorted-Muffin-Small",
-            "Peach",
-            "Banana"
+            "ASSORTED SUNDAE CUP"
         ],
         "price": [
             [
@@ -81,21 +78,6 @@
             ],
             [
                 "200"
-            ],
-            [
-                "260"
-            ],
-            [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
-                "250"
-            ],
-            [
-                "140"
             ],
             [
                 "100"
@@ -126,15 +108,6 @@
             ],
             [
                 "250"
-            ],
-            [
-                "60"
-            ],
-            [
-                "50"
-            ],
-            [
-                "25"
             ]
         ]
     },
@@ -151,15 +124,7 @@
             "Chicken Tikka Pizza",
             "French Fries",
             "CHICKEN PIE",
-            "BAKED CHICKEN SANDWICH",
-            "Chicken Patties",
-            "Vegetable Patties",
-            "Chicken Sandwich",
-            "Chicken Sandwich (Bran Bread)",
-            "Egg Cheese Sandwich",
-            "Egg Cheese Sandwich (Bran Bread)",
-            "Vegetable Cheese Sandwich",
-            "Vegetable Cheese Sandwich (Bran Bread)"
+            "BAKED CHICKEN SANDWICH"
         ],
         "price": [
             [
@@ -188,30 +153,6 @@
             ],
             [
                 "200"
-            ],
-            [
-                "80"
-            ],
-            [
-                "60"
-            ],
-            [
-                "140"
-            ],
-            [
-                "140"
-            ],
-            [
-                "100"
-            ],
-            [
-                "110"
-            ],
-            [
-                "120"
-            ],
-            [
-                "120"
             ]
         ]
     },

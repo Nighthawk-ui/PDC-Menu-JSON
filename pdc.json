@@ -198,15 +198,12 @@
             "VEGETABLE SAMOSA MINI",
             "Coffee",
             "DOODH PATTI",
-<<<<<<< HEAD
             "COLA NEXT WATER 500ML",
             "GATORADE DRINK",
             "Cardamom Tea",
             "NEXT COLA 300ML"
-=======
             "GATORADE DRINK",
             "Cardamom Tea"
->>>>>>> 69c0f6a7de08d1a02c4f4537a02d4a787b94493e
         ],
         "price": [
             [
@@ -217,15 +214,12 @@
             ],
             [
                 "50"
-<<<<<<< HEAD
             ],
             [
                 "230"
             ],
             [
                 "60"
-=======
->>>>>>> 69c0f6a7de08d1a02c4f4537a02d4a787b94493e
             ],
             [
                 "50"
@@ -237,30 +231,25 @@
                 "25"
             ],
             [
-<<<<<<< HEAD
                 "110"
             ],
             [
-                "90"
-=======
+                "90",
                 "60"
             ],
             [
                 "50"
->>>>>>> 69c0f6a7de08d1a02c4f4537a02d4a787b94493e
             ],
             [
                 "40"
             ],
             [
-<<<<<<< HEAD
                 "120"
             ],
             [
                 "90"
             ],
             [
-=======
                 "25"
             ],
             [
@@ -277,9 +266,10 @@
             [
                 "90",
                 "300",
->>>>>>> 69c0f6a7de08d1a02c4f4537a02d4a787b94493e
                 "60"
             ]
         ]
     }
 }
+
+

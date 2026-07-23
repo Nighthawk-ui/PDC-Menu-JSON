@@ -1,1 +1,881 @@
-{}
+{
+    "PAKISTANI CUISINE": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFZGaHdSazVGTlZWVlZGRTk=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRrUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRVUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQwUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQxUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRYcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRVUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRucGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Chicken Biryani",
+            "Chicken Achari",
+            "Khattay Baingan",
+            "Daal Moong Masoor",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Firni"
+        ],
+        "price": [
+            [
+                "350",
+                "250"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "BAKERY & DRINKS": {
+        "has_timings": false,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlZGaHdSazVGTlZWVlZGRTk=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRucGtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRucFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRWUlNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRWUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRucFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRucFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRWUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRsUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRYcE9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRtcEtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRYcENUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRXcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRrUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelQxUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRVUm5NbFJZY0VaT1JUVlZWVlJSUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRVUm5OVlJZY0VaT1JUVlZWVlJSUFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Assorted Muffin",
+            "Chocolate Fudge Brownie",
+            "Chocolate Marble Cake",
+            "Dry Nut Cake",
+            "Double Chocolate Pastry",
+            "Pineapple Pastry",
+            "Black Forest Pastry",
+            "Fresh-Mango-Pastry",
+            "COFFEE PASTRY",
+            "Assorted Donuts",
+            "Mint Margarita",
+            "BANANA-MILKSHAKE",
+            "Dates Milkshake",
+            "OREO MILKSHAKE",
+            "ICE TEA MANGO",
+            "ICE-TEA-LYCHEE"
+        ],
+        "price": [
+            [
+                "100"
+            ],
+            [
+                "150"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "180"
+            ],
+            [
+                "90"
+            ],
+            [
+                "100"
+            ],
+            [
+                "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "150"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ]
+        ]
+    },
+    "FAST FOOD AND SNACKS": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 1000,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeFZGaHdSazVGTlZWVlZGRTk=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRVUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQwUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQwUm9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQwUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUktUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRWUktUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRWUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRVUktUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRVUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeFQxUm9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Chocolate Cake",
+            "Kentucky Burger With Cheese & Fries",
+            "Grilled Chicken Sandwich with Fries",
+            "Chicken Shawarma",
+            "Chicken Shawarma With Cheese",
+            "Shawarma Platter",
+            "French Fries",
+            "Chicken Pizza",
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "BAKED CHICKEN SANDWICH",
+            "CHICKEN PIE",
+            "Vegetable Cheese Sandwich",
+            "Vegetable Cheese Sandwich (Bran Bread)",
+            "Egg Cheese Sandwich",
+            "Egg Cheese Sandwich (Bran Bread)",
+            "Chicken Patties"
+        ],
+        "price": [
+            [
+                "60"
+            ],
+            [
+                "450"
+            ],
+            [
+                "400"
+            ],
+            [
+                "200"
+            ],
+            [
+                "250"
+            ],
+            [
+                "500"
+            ],
+            [
+                "200"
+            ],
+            [
+                "180"
+            ],
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "200"
+            ],
+            [
+                "200"
+            ],
+            [
+                "120"
+            ],
+            [
+                "120"
+            ],
+            [
+                "100"
+            ],
+            [
+                "110"
+            ],
+            [
+                "80"
+            ]
+        ]
+    },
+    "PAN ASIAN / MEDITERRANEAN CUISINE": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVZGaHdSazVGTlZWVlZGRTk=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQwUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRXcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRrUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRVUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQwUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQxUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRYcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRVUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRucGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Chicken Manchurian",
+            "Egg Fried Rice",
+            "Chicken Biryani",
+            "Chicken Achari",
+            "Khattay Baingan",
+            "Daal Moong Masoor",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "HEALTHY / SALAD": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVQwVXhObEpVVWs5V1JrVXc=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlZGaHdSazVGTlZWVlZGRTk=&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVd1RWUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVd1RtcE9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRtcGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlRYcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVd1RsUm9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRWUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVd1RYcHNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRtcEdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRVUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Fish with Hot Garlic Sauce",
+            "Virgin Eggplant",
+            "Boiled Rice",
+            "Desi Roti",
+            "Desi Anda",
+            "Kunda Dahi",
+            "Salad Bar",
+            "Banana",
+            "PEAR",
+            "APPLE GREEN"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "130",
+                "80",
+                "70"
+            ],
+            [
+                "25"
+            ],
+            [
+                "55"
+            ],
+            [
+                "50"
+            ],
+            [
+                "350",
+                "240",
+                "120"
+            ],
+            [
+                "25"
+            ],
+            [
+                "70"
+            ],
+            [
+                "60"
+            ]
+        ]
+    },
+    "Green Olive": {
+        "has_timings": true,
+        "start_time": 1100,
+        "end_time": 1000,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVQxVXhObEpVVWs5V1JrVXc=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUktUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUlNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRtcFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRtcGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRtcENUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRrUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRrUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRYcHNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRYcG9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRrUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRtcG9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRrUktUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRYcFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRYcGtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRYcGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelQxUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRtcHNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQwUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRVUkJNRlJZY0VaT1JUVlZWVlJSUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRucENUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRVUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRXcFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRXcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUlNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRsUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRsUm9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRucE9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Hummus",
+            "Hummus Chicken",
+            "Fattoush Salad",
+            "Arabian Green Salad",
+            "Falafel 4p",
+            "Manakish Bi Leham",
+            "ZINGER SHAWARMA WITH FRIES",
+            "Falafel Shawarma Tortilla Bread",
+            "Chicken Shawarma with Tortilla Bread",
+            "Kabab Shawarma Tortilla Bread",
+            "Shish Taouk Shawarma Tortilla Bread",
+            "LEBANESE BEEF BURGER",
+            "LEBANESE CHICKEN BURGER",
+            "CHICKEN GYRO RICE",
+            "Kabab Gyro Rice",
+            "SHESHTOUK GYRO RICE",
+            "SPECIAL SHAWARMA PLATTER",
+            "SPECIAL KABAB PLATTER",
+            "SPECIAL SHESHTOUK PLATTER",
+            "CHICKEN MANDI",
+            "BasBousa",
+            "Chocolate Muffin",
+            "CHOCOLATE-DONUT",
+            "Arabian Brownie",
+            "ICE CREAM (PER-CUBE)",
+            "Coffee",
+            "Cardamom Tea",
+            "DOODH PATTI",
+            "COLA NEXT WATER 500ML",
+            "NEXT COLA 300ML",
+            "ORANGE MASHROOB",
+            "Sharbat E Sandal"
+        ],
+        "price": [
+            [
+                "200"
+            ],
+            [
+                "280"
+            ],
+            [
+                "250"
+            ],
+            [
+                "250"
+            ],
+            [
+                "200"
+            ],
+            [
+                "240"
+            ],
+            [
+                "450"
+            ],
+            [
+                "220"
+            ],
+            [
+                "350"
+            ],
+            [
+                "300"
+            ],
+            [
+                "400"
+            ],
+            [
+                "400"
+            ],
+            [
+                "350"
+            ],
+            [
+                "380"
+            ],
+            [
+                "380"
+            ],
+            [
+                "450"
+            ],
+            [
+                "550"
+            ],
+            [
+                "550"
+            ],
+            [
+                "600"
+            ],
+            [
+                "420"
+            ],
+            [
+                "100"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "160"
+            ],
+            [
+                "120"
+            ],
+            [
+                "110"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "40"
+            ],
+            [
+                "60"
+            ],
+            [
+                "120"
+            ],
+            [
+                "100"
+            ]
+        ]
+    },
+    "Baithak": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 200,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlRUQXhObEpVVWs5V1JrVXc=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRucENUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFQwUm9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRtcGtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRtcGtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVQxUktUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRYcENUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRVUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRYcEdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRtcFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRXcEdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQwUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRYcGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "CHICKEN VEGETABLES",
+            "AALOO BHUJIA (BTK)",
+            "Chicken Paratha(BTK)",
+            "SADA PARATHA",
+            "Omelete",
+            "Fried Egg",
+            "Boiled Egg",
+            "Chocolate Cake",
+            "Cake Rusk",
+            "Toast",
+            "DOODH PATTI (BAITHAK)",
+            "Butter-Tips",
+            "Jam",
+            "kulcha (BTK)"
+        ],
+        "price": [
+            [
+                "160"
+            ],
+            [
+                "90"
+            ],
+            [
+                "200"
+            ],
+            [
+                "50"
+            ],
+            [
+                "70"
+            ],
+            [
+                "50"
+            ],
+            [
+                "40"
+            ],
+            [
+                "60"
+            ],
+            [
+                "40"
+            ],
+            [
+                "20"
+            ],
+            [
+                "80"
+            ],
+            [
+                "55"
+            ],
+            [
+                "25"
+            ],
+            [
+                "30"
+            ]
+        ]
+    },
+    "The Off-Side Cafe": {
+        "has_timings": true,
+        "start_time": 1100,
+        "end_time": 1150,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlRtc3hObEpVVWs5V1JrVXc=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQxUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRVUkJlbFJZY0VaT1JUVlZWVlJSUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRXcFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRXcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUlNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRXcEdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRWUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRVUlZNVlJZY0VaT1JUVlZWVlJSUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRVUkZNVlJZY0VaT1JUVlZWVlJSUFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRsUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVQwUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Chicken Sandwich",
+            "Chicken Sandwich (Bran Bread)",
+            "Chocolate Cake",
+            "GRANDMA CHIP COOKIES",
+            "WALNUT-BROWNIE",
+            "Coffee",
+            "Cardamom Tea",
+            "DOODH PATTI",
+            "MANGO SLICE JUICE",
+            "Nesfruta",
+            "Sting",
+            "GATORADE DRINK",
+            "COLA NEXT WATER 500ML",
+            "NEXT COLA 300ML"
+        ],
+        "price": [
+            [
+                "140"
+            ],
+            [
+                "140"
+            ],
+            [
+                "60"
+            ],
+            [
+                "70"
+            ],
+            [
+                "220"
+            ],
+            [
+                "110"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "50"
+            ],
+            [
+                "60"
+            ],
+            [
+                "120"
+            ],
+            [
+                "120"
+            ],
+            [
+                "40"
+            ],
+            [
+                "60"
+            ]
+        ]
+    },
+    "THE CUPCAKE LOUNGE": {
+        "has_timings": true,
+        "start_time": 1000,
+        "end_time": 1000,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlRqQXhObEpVVWs5V1JrVXc=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRucFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVQwUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRXcEdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRWUlNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRWUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRucFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRWUk9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRucFdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMVRYcE9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVMFRsUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeFQxUm9UbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVelRXcENUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Chocolate Fudge Brownie",
+            "Chocolate Muffin",
+            "Chocolate Donut",
+            "Chocolate Marble Cake",
+            "Dry Nut Cake",
+            "Pineapple Pastry",
+            "Black Forest Pastry",
+            "Double Chocolate Pastry",
+            "COFFEE PASTRY",
+            "Fresh-Mango-Pastry",
+            "Chicken Patties",
+            "Vegetable Patties"
+        ],
+        "price": [
+            [
+                "150"
+            ],
+            [
+                "120"
+            ],
+            [
+                "80"
+            ],
+            [
+                "100"
+            ],
+            [
+                "90"
+            ],
+            [
+                "90"
+            ],
+            [
+                "100"
+            ],
+            [
+                "180"
+            ],
+            [
+                "120"
+            ],
+            [
+                "100"
+            ],
+            [
+                "80"
+            ],
+            [
+                "60"
+            ]
+        ]
+    },
+    "The Cupcake Lounge-Pakistani & Pan Asian Cuisine": {
+        "has_timings": true,
+        "start_time": 1230,
+        "end_time": 330,
+        "cuisineImage": "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNlQxVXhObEpVVWs5V1JrVXc=&_T=CUISINE",
+        "foodImages": [
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQwUkdUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRXcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRVUldUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRrUnNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQwUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQxUmtUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFRYcFNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNFQxUmFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxVeVRVUkNUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL",
+            "get-picture.php?_ID=VkZaU2FrNUZOVVZaZWxWNVRucGFUbVZyVlRCVWJGSlNUa0U5UFE9PQ==&_T=MEAL"
+        ],
+        "menu": [
+            "Chicken Manchurian",
+            "Egg Fried Rice",
+            "Chicken Achari",
+            "Chicken Biryani",
+            "Khattay Baingan",
+            "Daal Moong Masoor",
+            "Roti",
+            "Kulcha",
+            "Fresh Salad",
+            "Boiled Egg",
+            "Firni"
+        ],
+        "price": [
+            [
+                "450",
+                "300"
+            ],
+            [
+                "170",
+                "120",
+                "80"
+            ],
+            [
+                "300",
+                "200"
+            ],
+            [
+                "350",
+                "250"
+            ],
+            [
+                "130",
+                "90",
+                "70"
+            ],
+            [
+                "140",
+                "100",
+                "80"
+            ],
+            [
+                "20"
+            ],
+            [
+                "30"
+            ],
+            [
+                "30"
+            ],
+            [
+                "40"
+            ],
+            [
+                "100"
+            ]
+        ]
+    }
+}
